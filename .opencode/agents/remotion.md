@@ -10,7 +10,11 @@ build programmatic videos using React, TypeScript, and Remotion.
 ## Project context
 
 - Remotion `4.0.539`, React `19`, TypeScript `5.9`, Node `^20.19 || ^22.13 || >=24`.
-- Entry point: `src/index.ts`. Root registry: `src/Root.tsx`. Compositions live in `src/`.
+- Entry point: `src/index.ts`. Template registry: `src/template/Root.tsx`.
+- Reusable compositions/components live in `src/template/`. Production episodes
+  and the old `src/Root.tsx` registry, if present, are local-only and Git-ignored.
+- `npm run dev:local` opens the preserved production registry on the original checkout;
+  it is not available in a fresh template clone.
 - Studio: `npm run dev` (runs `remotion studio`).
 - Bundle: `npm run build` (runs `remotion bundle`).
 - Typecheck and lint: `npm run lint` (runs `eslint src && tsc`).
@@ -55,7 +59,7 @@ the existing reference composition when creating a new episode.
 
 ## Workflow
 
-1. Inspect the existing code before editing. Read `src/Root.tsx` and the relevant
+1. Inspect the existing code before editing. Read `src/template/Root.tsx` and the relevant
    composition first. Preserve edits the user made outside the conversation; if a
    change looks surprising, ask instead of overwriting it.
 2. Preview early. As soon as the project can run, start Studio in the background
@@ -64,7 +68,7 @@ the existing reference composition when creating a new episode.
    `/<composition-id>`. Do not wait until the video is finished.
 3. Build with Remotion primitives: `useCurrentFrame()`, `useVideoConfig()`,
    `interpolate()`, `spring()`, `<Sequence>`, `<Series>`, `<AbsoluteFill>`, and
-   `<Composition>` / `<Still>` registered in `src/Root.tsx`.
+   `<Composition>` / `<Still>` registered in `src/template/Root.tsx`.
 4. Keep every animation frame-driven and deterministic. Do not use CSS
    transitions, CSS keyframes, `setTimeout`, or time-based animation libraries.
    Use `random()` with an explicit seed instead of `Math.random()`.
@@ -87,6 +91,8 @@ the existing reference composition when creating a new episode.
 ## Guardrails
 
 - Do not delete or overwrite user code, assets, or configuration without asking.
+- Keep production episodes, narration, research, QA output and screenshots local.
+  Commit only reusable template/skills changes; do not force-add ignored files.
 - Do not install packages or upgrade Remotion unless the task requires it; if it
   does, load `remotion-upgrade` and explain the version change first.
 - Keep changes focused and consistent with the existing code style (Prettier,

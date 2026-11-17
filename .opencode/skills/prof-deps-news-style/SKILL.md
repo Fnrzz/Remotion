@@ -20,11 +20,10 @@ Do not restore legacy styling through old components or reference images.
    [data](assets/approved-full-canvas-raised-data.png). These are preview references,
    not media to insert into an episode. They record the requested 2026-11-02
    revision. Never fall back to the old safe-zone images.
-4. Read `src/KronosDocumentary.tsx`,
-   `src/episodes/kronos/components/Editorial.tsx`,
-   `src/episodes/kronos/components/Diagrams.tsx`,
-   `src/episodes/kronos/scenes/KronosScenes.tsx`, and
-   `src/components/FullCanvasOverlays.tsx` before adapting the layout.
+4. Read `src/template/NewsTemplate.tsx`, `src/template/Editorial.tsx`,
+   `src/template/FullCanvasOverlays.tsx`, `src/template/Root.tsx`, and
+   `src/fonts.ts` before adapting the layout. These are the portable baseline;
+   no historical episode implementation is required in a fresh clone.
 5. Paths above are repository-relative; supporting links are skill-relative.
    Preserve newer user edits rather than silently restoring a reference version.
 
@@ -75,10 +74,11 @@ Do not restore legacy styling through old components or reference images.
 
 1. Use the supplied topic, narration and assets; ask only for blocking inputs.
    Verify new facts and provenance rather than copying another story's claims.
-2. Add a distinct composition and episode-local data. Preserve existing Genie,
-   Terra, Gemini and Mistral compositions and old safe-zone components as history;
-   do not silently migrate them or globally replace their shared data.
-3. Reuse the Kronos full-canvas patterns and shared overlays. Read imports first:
+2. Add a distinct composition and episode-local data. Preserve any existing
+   local production compositions as history; do not silently migrate them or
+   globally replace their shared data. Production files are Git-ignored; commit
+   reusable template/skills only unless the user explicitly changes that policy.
+3. Reuse the extracted full-canvas template patterns and overlays. Read imports first:
    isolate episode timing and narration through props/adapters, not legacy globals.
 4. Follow the story's rhythm: black hook → off-white reveal → explanation/data
    → limitations/status → closing. Scene count and timing follow the new audio,
@@ -103,5 +103,5 @@ Do not restore legacy styling through old components or reference images.
   visibility; no artificial blank/faded frames between adjacent cues.
 - Inspect expression cuts: identical character position, size and pose canvas;
   no scene transition or motion envelope may restart the character's entrance.
-- Preserve all historical images and compositions. Change this baseline only
+- Preserve any local historical images and compositions. Change this baseline only
   when the user explicitly requests it; never infer permission to redesign.

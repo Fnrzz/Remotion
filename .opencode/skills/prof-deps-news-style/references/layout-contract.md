@@ -46,7 +46,7 @@ Equal editorial margins are ordinary page layout, not replacement safe-zone math
 
 ## Independent full-canvas overlays
 
-Use `src/components/FullCanvasOverlays.tsx` once at composition level, outside
+Use `src/template/FullCanvasOverlays.tsx` once at composition level, outside
 scene sequences and the inner content transform. Its coordinates scale with the
 design canvas, not with the 636px authored content. Preserve global cue timing.
 
@@ -114,13 +114,12 @@ Scene fades must not remount or restart the character's initial fade.
 
 Repository-relative paths to inspect before adapting:
 
-- `src/KronosDocumentary.tsx`: composition, narration, layer ordering and timing.
-- `src/episodes/kronos/components/Editorial.tsx`: headlines and cardless stage.
-- `src/episodes/kronos/components/Diagrams.tsx`: authored diagram/type patterns.
-- `src/episodes/kronos/scenes/KronosScenes.tsx`: full-canvas editorial scenes.
-- `src/components/FullCanvasOverlays.tsx`: shared watermark/character/subtitles.
-- `src/Root.tsx`, `src/fonts.ts`, `src/theme.ts`: registration and reusable tokens;
-  any legacy safe-area values are not part of this contract.
+- `src/template/NewsTemplate.tsx`: standalone example scenes and layer ordering.
+- `src/template/Editorial.tsx`: headlines and the cardless content stage.
+- `src/template/FullCanvasOverlays.tsx`: persistent watermark/character/subtitles;
+  takes captions and public-relative expression image cues through props, with
+  no episode-global data imports. Empty cues intentionally omit the character.
+- `src/index.ts`, `src/template/Root.tsx`, `src/fonts.ts`: registration and fonts.
 - `public/assets/images/charactersheet/`: preserve original expression assets.
 
 New visual references (skill-relative):
@@ -128,13 +127,16 @@ New visual references (skill-relative):
 `../assets/approved-full-canvas-raised-data.png`. Captured from Kronos frames 1350 and
 590 respectively in `.preview/kronos/raised-overlays/stills/` on 2026-11-02.
 Follow this contract and canonical implementation, not an old image as a fallback.
-All earlier `approved-*` images remain untouched historical records, including
-stable-source, balanced, initial full-canvas and original closing/audio references. None may restore
-safe-zone placement, photo cards, on-screen source text or old watermark logos.
+Only these two current references are published with the reusable skill.
+Earlier `approved-*` images, if present locally, remain untouched historical
+records, not instructions. None may restore safe-zone placement, photo cards,
+on-screen source text or old watermark logos.
 
-Existing Genie/Terra/Gemini/Mistral compositions and shared safe-zone components
-remain historical, not silently migrated. New episodes get distinct registration
+Historical episode compositions, if present locally, are not silently migrated
+and are not required by the template. New episodes get distinct registration
 and episode-local data/props; never globally overwrite another episode's timing.
+Keep production episodes/media/research out of template commits, as specified
+in the root README and `.gitignore`.
 
 ## QA and delivery
 

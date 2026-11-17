@@ -4,10 +4,10 @@ This folder contains the project-local OpenCode configuration.
 
 ```text
 .opencode/
-├── opencode.jsonc          # project config: default agent + formatter
+├── opencode.json           # project config: default agent + formatter
 ├── agents/
 │   └── remotion.md         # "remotion" primary agent (Remotion video engineer)
-└── skills/                 # all 12 Remotion skills, copied from .agents/skills
+└── skills/                 # 12 Remotion skills + the custom Prof Deps style
     ├── remotion-best-practices/   (router)
     ├── remotion-captions/
     ├── remotion-create/
@@ -19,7 +19,8 @@ This folder contains the project-local OpenCode configuration.
     ├── remotion-render/
     ├── remotion-saas/
     ├── remotion-studio/
-    └── remotion-upgrade/
+    ├── remotion-upgrade/
+    └── prof-deps-news-style/
 ```
 
 ## Usage
@@ -27,7 +28,7 @@ This folder contains the project-local OpenCode configuration.
 Run OpenCode from this directory:
 
 ```bash
-cd /Users/macbook/Documents/Projects/remotion
+# From the cloned repository root:
 opencode
 ```
 
@@ -46,7 +47,8 @@ The project skill `prof-deps-news-style` records the approved Prof Deps visual
 identity and full-canvas cardless layout: no TikTok safe-zone guide or fitting,
 no main-content cards, stable subtitles, stationary character, text-only watermark,
 and source credits in documentation rather than scene overlays. Its current
-contract and preview images use Kronos; older Genie4 positions/images are history.
+contract and two preview references record the approved Kronos layout.
+The portable implementation is in `src/template/`, independent of old episodes.
 The `remotion` agent loads it for new videos and visual revisions; historical
 episodes are not silently migrated.
 
@@ -58,7 +60,7 @@ Keep the approved style and positions. Use [narration file] and preview only.
 ```
 
 Location: `.opencode/skills/prof-deps-news-style/`. To use it in another project,
-copy the entire directory, then bring over the reusable components/assets listed
+copy the entire directory, then bring over the reusable template/assets listed
 in `references/layout-contract.md`. The skill is project-local, not globally
 installed. If it is not listed in an already-open session, start a new session.
 
