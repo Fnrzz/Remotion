@@ -55,26 +55,20 @@ Referensi gambar dalam skill hanya dokumentasi layout, bukan aset episode baru.
 5. Jalankan Studio dan lint. Jangan commit aset atau kode episode hanya untuk
    membuat template berjalan: template ini tidak bergantung pada episode mana pun.
 
-## File produksi tetap lokal
+## Batas repo
 
-`.gitignore` mengecualikan preview/QA, output render, riset, scripts produksi,
-episode lama beserta data/scene-nya, audio, foto, logo, serta screenshot episode.
-Hanya font dan aset karakter reusable yang diizinkan dari `public/`.
-Jangan memakai `git add -f` untuk file produksi tersebut.
+Repo ini hanya memuat template dan aset reusable. Seluruh kode, audio, foto,
+logo, dokumentasi riset, script produksi, preview QA, dan render episode
+sebelumnya sudah dihapus dari disk. `public/` sekarang hanya berisi font dan
+character sheet reusable.
 
-Pada checkout produksi asal, registry lama `src/Root.tsx` dan semua episode/aset
-tetap ada di disk, tetapi tidak dilacak Git. Buka dengan:
+`.gitignore` tetap mengecualikan episode baru, preview/QA, output render, dan
+riset agar tidak ikut ter-commit. Jangan memakai `git add -f` untuk file tersebut.
 
-```bash
-npm run dev:local
-```
-
-Perintah ini khusus checkout yang masih memiliki `src/local-index.ts` dan
-episode lokal; file-file itu memang tidak tersedia pada clone template baru.
-
-**Catatan history:** commit kurasi mengeluarkan file produksi dari versi terbaru,
-bukan dari commit lama. Clone masih membawa riwayat tersebut. Penghapusan permanen
-dari history memerlukan proses terpisah yang harus disepakati sebelum force-push.
+**Catatan history:** file episode lama masih tersimpan di commit awal
+`3607b81`. Commit pembersihan tidak menulis ulang riwayat. Menghapusnya secara
+permanen dari history memerlukan proses terpisah dan persetujuan sebelum
+force-push.
 
 ## Skills dan lisensi
 

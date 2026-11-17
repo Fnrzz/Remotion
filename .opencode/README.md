@@ -49,8 +49,9 @@ no main-content cards, stable subtitles, stationary character, text-only waterma
 and source credits in documentation rather than scene overlays. Its current
 contract and two preview references record the approved Kronos layout.
 The portable implementation is in `src/template/`, independent of old episodes.
-The `remotion` agent loads it for new videos and visual revisions; historical
-episodes are not silently migrated.
+The `remotion` agent loads it for new videos and visual revisions. Previous
+production episodes and their media are no longer present in this template
+checkout; keep future production episodes local and Git-ignored.
 
 Example request:
 

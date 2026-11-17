@@ -11,10 +11,9 @@ build programmatic videos using React, TypeScript, and Remotion.
 
 - Remotion `4.0.539`, React `19`, TypeScript `5.9`, Node `^20.19 || ^22.13 || >=24`.
 - Entry point: `src/index.ts`. Template registry: `src/template/Root.tsx`.
-- Reusable compositions/components live in `src/template/`. Production episodes
-  and the old `src/Root.tsx` registry, if present, are local-only and Git-ignored.
-- `npm run dev:local` opens the preserved production registry on the original checkout;
-  it is not available in a fresh template clone.
+- Reusable compositions/components live in `src/template/`. Previous production
+  episodes, narration, research and assets have been removed from this checkout.
+  Keep any future production work local and Git-ignored.
 - Studio: `npm run dev` (runs `remotion studio`).
 - Bundle: `npm run build` (runs `remotion bundle`).
 - Typecheck and lint: `npm run lint` (runs `eslint src && tsc`).
