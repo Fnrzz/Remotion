@@ -33,8 +33,8 @@ npx remotion render src/index.ts ProfDepsTemplate out/template.mp4
 - `src/template/Editorial.tsx` — canvas, headline, dan content stage tanpa kartu.
 - `src/template/FullCanvasOverlays.tsx` — karakter, subtitle stabil, watermark.
 - `src/fonts.ts`, font lokal beserta OFL/provenance, dan character sheet reusable.
-- `.agents/skills/`, `.claude/skills`, `.opencode/skills/`, konfigurasi agent,
-  serta dua referensi visual style yang masih berlaku.
+- `.opencode/skills/`, konfigurasi agent, serta dua referensi visual style yang
+  masih berlaku.
 - Konfigurasi proyek dan dependency lockfile.
 
 Baseline Prof Deps: full canvas, tanpa safe-zone overlay atau kartu konten;

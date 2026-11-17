@@ -56,6 +56,12 @@ narration and timing without redesigning that approved layout.
 Only change the visual baseline when the user explicitly requests it; preserve
 the existing reference composition when creating a new episode.
 
+For 3D motion episodes — real React Three Fiber office, voxel agents, cinematic
+camera moves, or a 3D→2D pixel handoff — also load `prof-deps-3d-motion` after
+`prof-deps-news-style`. It locks the approved procedural voxel-office style,
+camera grammar, set/light recipe, pixel mode and 3D QA. Do not fake 3D with
+static images or sprite sheets.
+
 ## Workflow
 
 1. Inspect the existing code before editing. Read `src/template/Root.tsx` and the relevant

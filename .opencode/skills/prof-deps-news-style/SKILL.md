@@ -27,6 +27,13 @@ Do not restore legacy styling through old components or reference images.
 5. Paths above are repository-relative; supporting links are skill-relative.
    Preserve newer user edits rather than silently restoring a reference version.
 
+### 3D motion episodes
+
+If the episode uses real 3D, React Three Fiber, a procedural voxel office, or a
+3D→2D pixel transition, load `prof-deps-3d-motion` after this skill. It extends
+the scene layer with the approved camera, set, agent and pixel-mode contracts.
+The full-canvas overlay anchors in this skill still apply unchanged.
+
 ## Locked design
 
 - Portrait **1080 × 1920, 30fps**, scaled responsively as one design space.

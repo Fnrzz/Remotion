@@ -7,7 +7,7 @@ This folder contains the project-local OpenCode configuration.
 ├── opencode.json           # project config: default agent + formatter
 ├── agents/
 │   └── remotion.md         # "remotion" primary agent (Remotion video engineer)
-└── skills/                 # 12 Remotion skills + the custom Prof Deps style
+└── skills/                 # 12 Remotion skills + 2 custom Prof Deps skills
     ├── remotion-best-practices/   (router)
     ├── remotion-captions/
     ├── remotion-create/
@@ -20,7 +20,8 @@ This folder contains the project-local OpenCode configuration.
     ├── remotion-saas/
     ├── remotion-studio/
     ├── remotion-upgrade/
-    └── prof-deps-news-style/
+    ├── prof-deps-news-style/
+    └── prof-deps-3d-motion/
 ```
 
 ## Usage
@@ -65,16 +66,37 @@ copy the entire directory, then bring over the reusable template/assets listed
 in `references/layout-contract.md`. The skill is project-local, not globally
 installed. If it is not listed in an already-open session, start a new session.
 
+### Reuse the approved 3D motion style
+
+The project skill `prof-deps-3d-motion` records the approved procedural
+voxel-office language from episode 014 Hermes3D: real React Three Fiber
+rendering, one persistent office world, cinematic camera keys, six voxel agents
+with authored schedules, warm editorial lighting, a 3D→2D pixel-art handoff,
+and the same Prof Deps overlay anchors. It includes technical references for
+world/camera/agents, set/light/pixel mode, and overlays/QA/render, plus five
+approved stills.
+
+Example request:
+
+```text
+Use @prof-deps-3d-motion to make a new 3D episode about [topic].
+Keep the approved voxel office, camera grammar and overlay anchors.
+Use [narration file] and preview only.
+```
+
+Location: `.opencode/skills/prof-deps-3d-motion/`. Load it after
+`prof-deps-news-style`; the 3D skill extends the scene layer, while the news
+skill keeps the full-canvas cardless overlay contract. The skill is
+project-local, not globally installed. If it is not listed in an already-open
+session, start a new session.
+
 ### Skill maintenance
 
-- Skills are discovered automatically from `.opencode/skills/`. They override
-  the copies in `.agents/skills/` (which OpenCode also reads for compatibility).
-- To refresh the skills after `npx skills update` (or a Remotion upgrade),
-  re-copy them:
-
-  ```bash
-  cp -R .agents/skills/. .opencode/skills/
-  ```
-
+- Skills are discovered automatically from `.opencode/skills/`. That is the
+  canonical, project-local location; there is no separate `.agents` or
+  `.claude` mirror.
+- To refresh vendor skills, install the updated skill folders directly into
+  `.opencode/skills/` and keep the custom Prof Deps skills untouched.
+  `skills-lock.json` records the vendor skill sources and hashes.
 - Skill references inside each `SKILL.md` are relative to that skill's own
   directory, so keep the whole tree when copying.
