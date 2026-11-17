@@ -1,0 +1,29 @@
+{
+  "title": "GitHub - shiyu-coder/Kronos: Kronos: A Foundation Model for the Language of Financial Markets · GitHub",
+  "url": "https://github.com/shiyu-coder/Kronos",
+  "headings": [
+    "Navigation Menu",
+    "Repository navigation",
+    "About",
+    "Latest commit",
+    "History",
+    "Folders and files",
+    "Repository files navigation",
+    "Kronos: A Foundation Model for the Language of Financial Markets ",
+    "📰 News",
+    "📜 Introduction",
+    "✨ Live Demo",
+    "📦 Model Zoo",
+    "🚀 Getting Started",
+    "🔧 Finetuning on Your Own Data (A-Share Market Example)",
+    "📖 Citation",
+    "📜 License",
+    "About",
+    "Releases",
+    "Contributors18 (18)",
+    "Languages",
+    "Footer"
+  ],
+  "bodyExcerpt": "Skip to content\nNavigation Menu\nProducts\nDevelopers\nBusinesses\nResources\nPricing\nSign in\nSign up\nshiyu-coder\nKronos\nRepository navigation\nCode\nIssues\n219\n (219)\nPull requests\n76\n (76)\nActions\nProjects\nSecurity and quality\nInsights\nKronos\nPublic\nNotifications\nFork7.5k\n (7.5k)\nStar45.7k\n (45.7k)\nmaster\n1 Branch\n0 Tags\nCode\nLatest commit\nshiyu-coder\nMerge pull request #243 from ElhamDevelopmentStudio/fix/batch-dimensi…\n67b630e\n · \nHistory\n76 Commits\nFolders and files\nName\tLast commit message\tLast commit date\n\nexamples\n\t\nMerge pull request #139 from billconan2017/my-feature-branch\n\t\n\n\nfigures\n\t\nupdate logo\n\t\n\n\nfinetune\n\t\nMerge pull request #243 from ElhamDevelopmentStudio/fix/batch-dimensi…\n\t\n\n\nfinetune_csv\n\t\nfix: preserve batch dimension in tokenizer and predictor training\n\t\n\n\nmodel\n\t\nfix: use torch.topk instead of calling top_k parameter as function in…\n\t\n\n\ntests\n\t\nUse pytorch SDPA implementation\n\t\n\n\nwebui\n\t\nfix: relax numpy requirement in webui dependencies\n\t\n\n\n.gitignore\n\t\nAuto-detect device for easier getting started\n\t\n\n\nLICENSE\n\t\nInitial commit\n\t\n\n\nREADME.md\n\t\nAuto-detect device for easier getting started\n\t\n\n\nrequirements.txt\n\t\nAuto-detect device for easier getting started\n\t\nRepository files navigation\nREADME\nMIT license\nKronos: A Foundation Model for the Language of Financial Markets\n     \nDeutsch | Español | Français | 日本語 | 한국어 | Português | Русский | 中文\n\nKronos is the first open-source foundation model for financial candlesticks (K-lines), trained on data from over 45 global exchanges.\n\n📰 News\n🚩 [2025.11.10] Kronos has been accpeted by AAAI 2026.\n🚩 [2025.08.17] We have released the scripts for fine-tuning! Check them out to adapt Kronos to your own tasks.\n🚩 [2025.08.02] Our paper is now available on arXiv!\n\n📜 Introduction\n\nKronos is a family of decoder-only foundation models, pre-trained specifically for the \"language\" of financial markets—K-line sequences. Unlike general-purpose TSFMs, Kronos is designed to handle the unique, high-noise characteristics of financial data. It leverages a novel two-stage framework:\n\nA specialized tokenizer first quantizes continuous, multi-dimensional K-line data (OHLCV) into hierarchical discrete tokens.\nA large, autoregressive Transformer is then pre-trained on these tokens, enabling it to serve as a unified model for diverse quantitative tasks.\n\n✨ Live Demo\n\nWe have set up a live demo to visualize Kronos's forecasting results. The webpage showcases a forecast for the BTC/USDT trading pair over the next 24 hours.\n\n👉 Access the Live Demo Here\n\n📦 Model Zoo\n\nWe release a family of pre-trained models with varying capacities to suit different computational and application needs. All models are readily accessible from the Hugging Face Hub.\n\nModel\tTokenizer\tContext length\tParams\tOpen-source\nKronos-mini\tKronos-Tokenizer-2k\t2048\t4.1M\t✅ NeoQuasar/Kronos-mini\nKronos-small\tKronos-Tokenizer-base\t512\t24.7M\t✅ NeoQuasar/Kronos-small\nKronos-base\tKronos-Tokenizer-base\t512\t102.3M\t✅ NeoQuasar/Kronos-base\nKronos-large\tKronos-Tokenizer-base\t512\t499.2M\t❌\n🚀 Getting Started\nInstallation\nInstall Python 3.10+, and then install the dependencies:\npip install -r requirements.txt\n📈 Making Forecasts\n\nForecasting with Kronos is straightforward using the KronosPredictor class. It handles data preprocessing, normalization, prediction, and inverse normalization, allowing you to get from raw data to forecasts in just a few lines of code.\n\nImportant Note: The max_context for Kronos-small and Kronos-base is 512. This is the ma",
+  "capturedAt": "2026-11-02T10:12:27.855Z"
+}

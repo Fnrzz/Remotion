@@ -1,0 +1,131 @@
+{
+	"systeminfo": "WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "small",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 768,
+			"head": 12,
+			"layer": 12
+		},
+		"text": {
+			"ctx": 448,
+			"state": 768,
+			"head": 12,
+			"layer": 12
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/private/var/folders/fz/49955vj10ybfkkyd7m__pkm00000gn/T/opencode/whisper/ggml-small.bin",
+		"language": "id",
+		"translate": false
+	},
+	"result": {
+		"language": "id"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:02,940"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 2940
+			},
+			"text": " Gambar buatan AI, itu udah biasa."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:02,940",
+				"to": "00:00:07,040"
+			},
+			"offsets": {
+				"from": 2940,
+				"to": 7040
+			},
+			"text": " Tapi kalau AI bisa bikin dunia virtual yang bisa kamu jelajahi,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:07,040",
+				"to": "00:00:10,040"
+			},
+			"offsets": {
+				"from": 7040,
+				"to": 10040
+			},
+			"text": " Google baru aja memperkenalkan Genie 4."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:10,040",
+				"to": "00:00:14,140"
+			},
+			"offsets": {
+				"from": 10040,
+				"to": 14140
+			},
+			"text": " AI ini bisa menciptakan dunia virtual interaktif secara real time."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:14,140",
+				"to": "00:00:18,740"
+			},
+			"offsets": {
+				"from": 14140,
+				"to": 18740
+			},
+			"text": " Kamu bisa mengubah cuaca, menambahkan karakter, bahkan mengarahkan adegan,"
+		},
+		{
+			"timestamps": {
+				"from": "00:00:18,740",
+				"to": "00:00:20,380"
+			},
+			"offsets": {
+				"from": 18740,
+				"to": 20380
+			},
+			"text": " cukup lewat instruksi text."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:20,380",
+				"to": "00:00:24,140"
+			},
+			"offsets": {
+				"from": 20380,
+				"to": 24140
+			},
+			"text": " Bahkan suara dan dialognya juga bisa dihasilkan AI."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:24,140",
+				"to": "00:00:28,640"
+			},
+			"offsets": {
+				"from": 24140,
+				"to": 28640
+			},
+			"text": " Tapi teknologi ini masih dalam tahap reset dan belum tersedia untuk semua orang."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:28,640",
+				"to": "00:00:33,840"
+			},
+			"offsets": {
+				"from": 28640,
+				"to": 33840
+			},
+			"text": " Kalau AI terus berkembang seperti ini, menurut kamu, gimana masa depan industri game?"
+		}
+	]
+}

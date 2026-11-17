@@ -1,0 +1,268 @@
+[
+  {
+    "text": "Harga AI buat coding",
+    "startMs": 90,
+    "endMs": 1650,
+    "timestampMs": 90,
+    "confidence": null
+  },
+  {
+    "text": "bisa beda lima kali lipat.",
+    "startMs": 1650,
+    "endMs": 3780,
+    "timestampMs": 1650,
+    "confidence": null
+  },
+  {
+    "text": "Tapi, performanya juga",
+    "startMs": 3780,
+    "endMs": 5220,
+    "timestampMs": 3780,
+    "confidence": null
+  },
+  {
+    "text": "beda sejauh itu?",
+    "startMs": 5220,
+    "endMs": 7010,
+    "timestampMs": 5220,
+    "confidence": null
+  },
+  {
+    "text": "Kita bandingin tiga model.",
+    "startMs": 7010,
+    "endMs": 8530,
+    "timestampMs": 7010,
+    "confidence": null
+  },
+  {
+    "text": "Kimi K3.1 Pro,",
+    "startMs": 8530,
+    "endMs": 9940,
+    "timestampMs": 8530,
+    "confidence": null
+  },
+  {
+    "text": "Claude Opus 5.5",
+    "startMs": 9940,
+    "endMs": 11480,
+    "timestampMs": 9940,
+    "confidence": null
+  },
+  {
+    "text": "dan GPT-6 Astra.",
+    "startMs": 11480,
+    "endMs": 13440,
+    "timestampMs": 11480,
+    "confidence": null
+  },
+  {
+    "text": "Di tarif API standar",
+    "startMs": 13440,
+    "endMs": 14520,
+    "timestampMs": 13440,
+    "confidence": null
+  },
+  {
+    "text": "per sejuta token,",
+    "startMs": 14520,
+    "endMs": 15800,
+    "timestampMs": 14520,
+    "confidence": null
+  },
+  {
+    "text": "Kimi dua dolar input",
+    "startMs": 15800,
+    "endMs": 16830,
+    "timestampMs": 15800,
+    "confidence": null
+  },
+  {
+    "text": "dan sepuluh dolar output.",
+    "startMs": 16830,
+    "endMs": 18440,
+    "timestampMs": 16830,
+    "confidence": null
+  },
+  {
+    "text": "Opus empat dan dua puluh.",
+    "startMs": 18440,
+    "endMs": 20130,
+    "timestampMs": 18440,
+    "confidence": null
+  },
+  {
+    "text": "Astra, sepuluh",
+    "startMs": 20130,
+    "endMs": 20940,
+    "timestampMs": 20130,
+    "confidence": null
+  },
+  {
+    "text": "dan lima puluh dolar.",
+    "startMs": 20940,
+    "endMs": 22720,
+    "timestampMs": 20940,
+    "confidence": null
+  },
+  {
+    "text": "Sekarang benchmark-nya.",
+    "startMs": 22720,
+    "endMs": 24840,
+    "timestampMs": 22720,
+    "confidence": null
+  },
+  {
+    "text": "Di Kimi Code Bench 3.0,",
+    "startMs": 24840,
+    "endMs": 26730,
+    "timestampMs": 24840,
+    "confidence": null
+  },
+  {
+    "text": "tes internal Moonshot,",
+    "startMs": 26730,
+    "endMs": 27980,
+    "timestampMs": 26730,
+    "confidence": null
+  },
+  {
+    "text": "Astra dapat 66,5.",
+    "startMs": 27980,
+    "endMs": 30210,
+    "timestampMs": 27980,
+    "confidence": null
+  },
+  {
+    "text": "Kimi 61,2",
+    "startMs": 30210,
+    "endMs": 31770,
+    "timestampMs": 30210,
+    "confidence": null
+  },
+  {
+    "text": "dan Opus 58,5.",
+    "startMs": 31770,
+    "endMs": 34510,
+    "timestampMs": 31770,
+    "confidence": null
+  },
+  {
+    "text": "Tapi di angka",
+    "startMs": 34510,
+    "endMs": 34960,
+    "timestampMs": 34510,
+    "confidence": null
+  },
+  {
+    "text": "Terminal-Bench 4.0",
+    "startMs": 34960,
+    "endMs": 36220,
+    "timestampMs": 34960,
+    "confidence": null
+  },
+  {
+    "text": "yang dikumpulkan Moonshot,",
+    "startMs": 36220,
+    "endMs": 37960,
+    "timestampMs": 36220,
+    "confidence": null
+  },
+  {
+    "text": "Opus unggul tipis",
+    "startMs": 37960,
+    "endMs": 39000,
+    "timestampMs": 37960,
+    "confidence": null
+  },
+  {
+    "text": "dengan 66,4.",
+    "startMs": 39000,
+    "endMs": 40970,
+    "timestampMs": 39000,
+    "confidence": null
+  },
+  {
+    "text": "Kimi 65,7",
+    "startMs": 40970,
+    "endMs": 42530,
+    "timestampMs": 40970,
+    "confidence": null
+  },
+  {
+    "text": "dan Astra 58,2.",
+    "startMs": 42530,
+    "endMs": 45220,
+    "timestampMs": 42530,
+    "confidence": null
+  },
+  {
+    "text": "Ingat, pengaturan tesnya",
+    "startMs": 45220,
+    "endMs": 46480,
+    "timestampMs": 45220,
+    "confidence": null
+  },
+  {
+    "text": "nggak selalu sama.",
+    "startMs": 46480,
+    "endMs": 47760,
+    "timestampMs": 46480,
+    "confidence": null
+  },
+  {
+    "text": "Dan harga per token",
+    "startMs": 47760,
+    "endMs": 48440,
+    "timestampMs": 47760,
+    "confidence": null
+  },
+  {
+    "text": "belum tentu menggambarkan",
+    "startMs": 48440,
+    "endMs": 49660,
+    "timestampMs": 48440,
+    "confidence": null
+  },
+  {
+    "text": "biaya menyelesaikan satu proyek.",
+    "startMs": 49660,
+    "endMs": 51730,
+    "timestampMs": 49660,
+    "confidence": null
+  },
+  {
+    "text": "Jadi, kalau kamu pakai",
+    "startMs": 51730,
+    "endMs": 52930,
+    "timestampMs": 51730,
+    "confidence": null
+  },
+  {
+    "text": "AI buat coding,",
+    "startMs": 52930,
+    "endMs": 54210,
+    "timestampMs": 52930,
+    "confidence": null
+  },
+  {
+    "text": "lebih pilih tarif hemat",
+    "startMs": 54210,
+    "endMs": 55200,
+    "timestampMs": 54210,
+    "confidence": null
+  },
+  {
+    "text": "atau performa yang paling cocok",
+    "startMs": 55200,
+    "endMs": 56830,
+    "timestampMs": 55200,
+    "confidence": null
+  },
+  {
+    "text": "buat kebutuhanmu?",
+    "startMs": 56830,
+    "endMs": 58122.438,
+    "timestampMs": 56830,
+    "confidence": null
+  }
+]

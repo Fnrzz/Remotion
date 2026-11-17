@@ -1,0 +1,289 @@
+[
+  {
+    "text": "Seribu AI agent?",
+    "startMs": 130,
+    "endMs": 1930,
+    "timestampMs": 130,
+    "confidence": null
+  },
+  {
+    "text": "Bikin sistem operasi",
+    "startMs": 1930,
+    "endMs": 2960,
+    "timestampMs": 1930,
+    "confidence": null
+  },
+  {
+    "text": "dalam delapan hari?",
+    "startMs": 2960,
+    "endMs": 4500,
+    "timestampMs": 2960,
+    "confidence": null
+  },
+  {
+    "text": "Ini eksperimen",
+    "startMs": 4500,
+    "endMs": 4910,
+    "timestampMs": 4500,
+    "confidence": null
+  },
+  {
+    "text": "yang baru diumumkan",
+    "startMs": 4910,
+    "endMs": 6310,
+    "timestampMs": 4910,
+    "confidence": null
+  },
+  {
+    "text": "Anthropic lewat",
+    "startMs": 6310,
+    "endMs": 7100,
+    "timestampMs": 6310,
+    "confidence": null
+  },
+  {
+    "text": "Claude Fable 5.2.",
+    "startMs": 7100,
+    "endMs": 8920,
+    "timestampMs": 7100,
+    "confidence": null
+  },
+  {
+    "text": "Bayangin, seorang engineer",
+    "startMs": 8920,
+    "endMs": 10710,
+    "timestampMs": 8920,
+    "confidence": null
+  },
+  {
+    "text": "memulai dari folder kosong,",
+    "startMs": 10710,
+    "endMs": 12430,
+    "timestampMs": 10710,
+    "confidence": null
+  },
+  {
+    "text": "lalu memberi tugas,",
+    "startMs": 12430,
+    "endMs": 13650,
+    "timestampMs": 12430,
+    "confidence": null
+  },
+  {
+    "text": "bikin prototipe",
+    "startMs": 13650,
+    "endMs": 14550,
+    "timestampMs": 13650,
+    "confidence": null
+  },
+  {
+    "text": "sistem operasi.",
+    "startMs": 14550,
+    "endMs": 15550,
+    "timestampMs": 14550,
+    "confidence": null
+  },
+  {
+    "text": "Fable kemudian",
+    "startMs": 15550,
+    "endMs": 16230,
+    "timestampMs": 15550,
+    "confidence": null
+  },
+  {
+    "text": "mengoordinasikan",
+    "startMs": 16230,
+    "endMs": 17070,
+    "timestampMs": 16230,
+    "confidence": null
+  },
+  {
+    "text": "lebih dari seribu subagent.",
+    "startMs": 17070,
+    "endMs": 19270,
+    "timestampMs": 17070,
+    "confidence": null
+  },
+  {
+    "text": "Mereka menulis kode,",
+    "startMs": 19270,
+    "endMs": 20530,
+    "timestampMs": 19270,
+    "confidence": null
+  },
+  {
+    "text": "menjalankan tes,",
+    "startMs": 20530,
+    "endMs": 21650,
+    "timestampMs": 20530,
+    "confidence": null
+  },
+  {
+    "text": "dan mereview hasilnya",
+    "startMs": 21650,
+    "endMs": 22980,
+    "timestampMs": 21650,
+    "confidence": null
+  },
+  {
+    "text": "selama delapan hari.",
+    "startMs": 22980,
+    "endMs": 24130,
+    "timestampMs": 22980,
+    "confidence": null
+  },
+  {
+    "text": "Dan menurut Anthropic,",
+    "startMs": 24130,
+    "endMs": 25240,
+    "timestampMs": 24130,
+    "confidence": null
+  },
+  {
+    "text": "hasilnya bisa boot di laptop.",
+    "startMs": 25240,
+    "endMs": 27130,
+    "timestampMs": 25240,
+    "confidence": null
+  },
+  {
+    "text": "Ada driver,",
+    "startMs": 27130,
+    "endMs": 27840,
+    "timestampMs": 27130,
+    "confidence": null
+  },
+  {
+    "text": "penyimpanan file,",
+    "startMs": 27840,
+    "endMs": 29140,
+    "timestampMs": 27840,
+    "confidence": null
+  },
+  {
+    "text": "jendela, layar login,",
+    "startMs": 29140,
+    "endMs": 30740,
+    "timestampMs": 29140,
+    "confidence": null
+  },
+  {
+    "text": "bahkan installer.",
+    "startMs": 30740,
+    "endMs": 32220,
+    "timestampMs": 30740,
+    "confidence": null
+  },
+  {
+    "text": "Tapi ingat,",
+    "startMs": 32220,
+    "endMs": 32840,
+    "timestampMs": 32220,
+    "confidence": null
+  },
+  {
+    "text": "ini masih prototipe",
+    "startMs": 32840,
+    "endMs": 34150,
+    "timestampMs": 32840,
+    "confidence": null
+  },
+  {
+    "text": "dalam eksperimen internal.",
+    "startMs": 34150,
+    "endMs": 36060,
+    "timestampMs": 34150,
+    "confidence": null
+  },
+  {
+    "text": "Bukan sistem operasi",
+    "startMs": 36060,
+    "endMs": 37070,
+    "timestampMs": 36060,
+    "confidence": null
+  },
+  {
+    "text": "yang sudah siap",
+    "startMs": 37070,
+    "endMs": 37930,
+    "timestampMs": 37070,
+    "confidence": null
+  },
+  {
+    "text": "menggantikan Windows.",
+    "startMs": 37930,
+    "endMs": 39200,
+    "timestampMs": 37930,
+    "confidence": null
+  },
+  {
+    "text": "Yang menarik justru",
+    "startMs": 39200,
+    "endMs": 40110,
+    "timestampMs": 39200,
+    "confidence": null
+  },
+  {
+    "text": "cara AI membagi",
+    "startMs": 40110,
+    "endMs": 40950,
+    "timestampMs": 40110,
+    "confidence": null
+  },
+  {
+    "text": "proyek besar jadi",
+    "startMs": 40950,
+    "endMs": 41930,
+    "timestampMs": 40950,
+    "confidence": null
+  },
+  {
+    "text": "banyak pekerjaan,",
+    "startMs": 41930,
+    "endMs": 43130,
+    "timestampMs": 41930,
+    "confidence": null
+  },
+  {
+    "text": "lalu menggabungkan hasilnya.",
+    "startMs": 43130,
+    "endMs": 45130,
+    "timestampMs": 43130,
+    "confidence": null
+  },
+  {
+    "text": "Kalau seribu AI agent",
+    "startMs": 45130,
+    "endMs": 46190,
+    "timestampMs": 45130,
+    "confidence": null
+  },
+  {
+    "text": "bisa kerja bareng,",
+    "startMs": 46190,
+    "endMs": 47000,
+    "timestampMs": 46190,
+    "confidence": null
+  },
+  {
+    "text": "proyek apa yang pengen",
+    "startMs": 47000,
+    "endMs": 48070,
+    "timestampMs": 47000,
+    "confidence": null
+  },
+  {
+    "text": "kamu lihat mereka",
+    "startMs": 48070,
+    "endMs": 49090,
+    "timestampMs": 48070,
+    "confidence": null
+  },
+  {
+    "text": "bikin berikutnya?",
+    "startMs": 49090,
+    "endMs": 49789.375,
+    "timestampMs": 49090,
+    "confidence": null
+  }
+]

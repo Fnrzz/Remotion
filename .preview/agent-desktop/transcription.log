@@ -1,0 +1,142 @@
+load_backend: loaded BLAS backend from /opt/homebrew/Cellar/ggml/0.28.0/libexec/libggml-blas.so
+ggml_metal_device_init: tensor API disabled for pre-M5 and pre-A19 devices
+ggml_metal_library_init: using embedded metal library
+ggml_metal_library_compile_all: compiled 'fa_aux' library in 0.007 sec
+ggml_metal_library_compile_all: compiled 'fa_f16' library in 0.046 sec
+ggml_metal_library_compile_all: compiled 'fa_f32' library in 0.010 sec
+ggml_metal_library_compile_all: compiled 'fa_q4_0' library in 0.015 sec
+ggml_metal_library_compile_all: compiled 'fa_q4_1' library in 0.104 sec
+ggml_metal_library_compile_all: compiled 'fa_q5_0' library in 0.012 sec
+ggml_metal_library_compile_all: compiled 'fa_q5_1' library in 0.013 sec
+ggml_metal_library_compile_all: compiled 'fa_q8_0' library in 0.100 sec
+ggml_metal_library_compile_all: compiled 'fa_tensor' library in 0.037 sec
+ggml_metal_library_compile_all: compiled 'fa_vec_f16' library in 0.063 sec
+ggml_metal_library_compile_all: compiled 'fa_vec_f32' library in 0.037 sec
+ggml_metal_library_compile_all: compiled 'fa_vec_q4_0' library in 0.050 sec
+ggml_metal_library_compile_all: compiled 'fa_vec_q4_1' library in 0.023 sec
+ggml_metal_library_compile_all: compiled 'fa_vec_q5_0' library in 0.096 sec
+ggml_metal_library_compile_all: compiled 'fa_vec_q5_1' library in 0.056 sec
+ggml_metal_library_compile_all: compiled 'fa_vec_q8_0' library in 0.035 sec
+ggml_metal_library_compile_all: compiled 'mul_mv' library in 0.069 sec
+ggml_metal_library_compile_all: compiled 'mul_mv_mma' library in 0.083 sec
+ggml_metal_library_compile_all: compiled 'mul_mm' library in 0.075 sec
+ggml_metal_library_compile_all: compiled 'quantize' library in 0.014 sec
+ggml_metal_library_compile_all: compiled 'softmax' library in 0.021 sec
+ggml_metal_library_compile_all: compiled 'norm' library in 0.100 sec
+ggml_metal_library_compile_all: compiled 'unary' library in 0.097 sec
+ggml_metal_library_compile_all: compiled 'binbcast' library in 0.094 sec
+ggml_metal_library_compile_all: compiled 'reduce' library in 0.099 sec
+ggml_metal_library_compile_all: compiled 'tri' library in 0.033 sec
+ggml_metal_library_compile_all: compiled 'ssm' library in 0.098 sec
+ggml_metal_library_compile_all: compiled 'wkv' library in 0.033 sec
+ggml_metal_library_compile_all: compiled 'gated_delta_net' library in 0.099 sec
+ggml_metal_library_compile_all: compiled 'solve_tri' library in 0.097 sec
+ggml_metal_library_compile_all: compiled 'rope' library in 0.098 sec
+ggml_metal_library_compile_all: compiled 'conv' library in 0.032 sec
+ggml_metal_library_compile_all: compiled 'upscale' library in 0.097 sec
+ggml_metal_library_compile_all: compiled 'argsort' library in 0.021 sec
+ggml_metal_library_compile_all: compiled 'pool' library in 0.020 sec
+ggml_metal_library_compile_all: compiled 'misc' library in 0.019 sec
+ggml_metal_library_compile_all: loaded 36 libraries from embedded data in 0.107 sec (max single = 0.104 sec)
+ggml_metal_rsets_init: creating a residency set collection (keep_alive = 180 s)
+ggml_metal_device_init: GPU name:   MTL0 (Apple M1)
+ggml_metal_device_init: GPU family: MTLGPUFamilyApple7  (1007)
+ggml_metal_device_init: GPU family: MTLGPUFamilyMetal4  (5002)
+ggml_metal_device_init: simdgroup reduction   = true
+ggml_metal_device_init: simdgroup matrix mul. = true
+ggml_metal_device_init: has unified memory    = true
+ggml_metal_device_init: has bfloat            = true
+ggml_metal_device_init: has tensor            = false
+ggml_metal_device_init: use residency sets    = true
+ggml_metal_device_init: use shared buffers    = true
+ggml_metal_device_init: recommendedMaxWorkingSetSize  =  5726.63 MB
+load_backend: loaded MTL backend from /opt/homebrew/Cellar/ggml/0.28.0/libexec/libggml-metal.so
+load_backend: loaded CPU backend from /opt/homebrew/Cellar/ggml/0.28.0/libexec/libggml-cpu-apple_m1.so
+whisper_init_from_file_with_params_no_state: loading model from '/private/var/folders/fz/49955vj10ybfkkyd7m__pkm00000gn/T/opencode/whisper/ggml-small.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 1
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_init_with_params_no_state: devices    = 3
+whisper_init_with_params_no_state: backends   = 3
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51865
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 768
+whisper_model_load: n_audio_head  = 12
+whisper_model_load: n_audio_layer = 12
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 768
+whisper_model_load: n_text_head   = 12
+whisper_model_load: n_text_layer  = 12
+whisper_model_load: n_mels        = 80
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 3 (small)
+whisper_model_load: adding 1608 extra tokens
+whisper_model_load: n_langs       = 99
+whisper_model_load:         MTL0 total size =   487.01 MB
+whisper_model_load: model size    =  487.01 MB
+whisper_backend_init_gpu: device 0: BLAS (type: 3)
+whisper_backend_init_gpu: device 1: MTL0 (type: 1)
+whisper_backend_init_gpu: found GPU device 1: MTL0 (type: 1, cnt: 0)
+whisper_backend_init_gpu: using MTL0 backend
+ggml_metal_init: allocating
+ggml_metal_init: found device: Apple M1
+ggml_metal_init: picking default device: Apple M1
+ggml_metal_init: use fusion         = true
+ggml_metal_init: use concurrency    = true
+ggml_metal_init: use graph optimize = true
+whisper_backend_init: using BLAS backend
+whisper_init_state: kv self size  =   18.87 MB
+whisper_init_state: kv cross size =   56.62 MB
+whisper_init_state: kv pad  size  =    4.72 MB
+whisper_init_state: compute buffer (conv)   =   23.38 MB
+whisper_init_state: compute buffer (encode) =   39.56 MB
+whisper_init_state: compute buffer (cross)  =   79.93 MB
+whisper_init_state: compute buffer (decode) =   98.21 MB
+read_audio_data: reading audio data from '.preview/agent-desktop/narration.wav' ...
+read_audio_data: trying to decode with miniaudio
+
+system_info: n_threads = 4 / 8 | WHISPER : VITISAI = 0 | COREML = 0 | OPENVINO = 0 | MTL : EMBED_LIBRARY = 1 | CPU : NEON = 1 | ARM_FMA = 1 | DOTPROD = 1 | ACCELERATE = 1 | OPENMP = 1 | REPACK = 1 | 
+
+main: processing '.preview/agent-desktop/narration.wav' (761104 samples, 47.6 sec), 4 threads, 1 processors, 5 beams + best of 5, lang = id, task = transcribe, timestamps = 1 ...
+
+
+[00:00:00.000 --> 00:00:02.360]   Bahaya angin! AI nggak cuma ngasih tahu
+[00:00:02.360 --> 00:00:04.420]   tombol mana yang harus diklik, tapi
+[00:00:04.420 --> 00:00:06.440]   bisa klik dan ngetik di aplikasi
+[00:00:06.440 --> 00:00:07.080]   desktop.
+[00:00:07.080 --> 00:00:09.560]   Nah, ada tool open source bernama Agent
+[00:00:09.560 --> 00:00:11.800]   Desktop, Proyek Diversal Labs.
+[00:00:11.800 --> 00:00:14.490]   Tapi menariknya, ini bukan model AI
+[00:00:14.490 --> 00:00:17.480]   baru, dan bukan agent yang bekerja sendirian.
+[00:00:17.480 --> 00:00:19.610]   Agent yang memakainya tetap mengatur
+[00:00:19.610 --> 00:00:20.080]   langkah.
+[00:00:20.080 --> 00:00:22.140]   Lewat fitur aksesibilitas, tool ini
+[00:00:22.140 --> 00:00:24.290]   bisa membaca tombol dan menu yang
+[00:00:24.290 --> 00:00:25.760]   memang disediakan aplikasi.
+[00:00:25.760 --> 00:00:28.240]   Jadi alurnya simple, baca antar muka,
+[00:00:28.240 --> 00:00:31.000]   kirim tindakan, lalu cek lagi hasilnya.
+[00:00:31.000 --> 00:00:33.320]   Tapi jangan salah, nggak semua aplikasi
+[00:00:33.320 --> 00:00:34.120]   didukung.
+[00:00:34.120 --> 00:00:36.600]   Agent tiap sistem juga berbeda, dan tindakan
+[00:00:36.600 --> 00:00:38.670]   yang terkirim belum tentu berarti tugasnya
+[00:00:38.670 --> 00:00:39.400]   selesai.
+[00:00:39.400 --> 00:00:41.700]   Bahkan snapshot dan log bisa memuat
+[00:00:41.700 --> 00:00:42.840]   data pribadi.
+[00:00:42.840 --> 00:00:44.790]   Kalau AI mendapat akses ke komputer
+[00:00:44.790 --> 00:00:47.560]   kamu, bagian apa yang paling wajib dibatasi?
+output_srt: saving output to '.preview/agent-desktop/narration.srt'
+output_json: saving output to '.preview/agent-desktop/narration.json'
+
+whisper_print_timings:     load time =   409.75 ms
+whisper_print_timings:     fallbacks =   0 p /   0 h
+whisper_print_timings:      mel time =    33.57 ms
+whisper_print_timings:   sample time =   547.22 ms /  1255 runs (     0.44 ms per run)
+whisper_print_timings:   encode time =   800.69 ms /     2 runs (   400.34 ms per run)
+whisper_print_timings:   decode time =    86.92 ms /     8 runs (    10.87 ms per run)
+whisper_print_timings:   batchd time =  3666.19 ms /  1240 runs (     2.96 ms per run)
+whisper_print_timings:   prompt time =    50.66 ms /   134 runs (     0.38 ms per run)
+whisper_print_timings:    total time =  5860.72 ms
+ggml_metal_free: deallocating

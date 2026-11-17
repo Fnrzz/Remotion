@@ -1,0 +1,86 @@
+{
+  "assets": [
+    {
+      "file": "laptop-coding.jpg",
+      "width": 4047,
+      "height": 2698,
+      "frames": "1",
+      "license": "CC0 1.0",
+      "sha256": "572e6dea4e7db9af2272a516a90426d52b9b01aafb1bdb2541c6ff95ec51e2eb",
+      "used": true
+    },
+    {
+      "file": "pair-programming.jpg",
+      "width": 2048,
+      "height": 1536,
+      "frames": "1",
+      "license": "CC BY 2.0",
+      "sha256": "2fd578c27d8f8dbc78936a6ad317149ae16aaa740a108508b11085b879de34bb",
+      "used": true
+    },
+    {
+      "file": "wocintech-collaboration.jpg",
+      "width": 6016,
+      "height": 4016,
+      "frames": "1",
+      "license": "CC BY 2.0",
+      "sha256": "0d9781830d14e2691db7477fed51427c80d9b6057770b55301d9bdb13d914231",
+      "used": true
+    },
+    {
+      "file": "san-francisco-programmer.jpg",
+      "width": 5184,
+      "height": 3456,
+      "frames": "1",
+      "license": "CC BY-SA 3.0",
+      "sha256": "271dfe191c1d95bf9051b37e151c5460c0ac6a592152e25b9a746ee2c0cc848c",
+      "used": false
+    },
+    {
+      "file": "hackathon-nyc.jpg",
+      "width": 2100,
+      "height": 1400,
+      "frames": "1",
+      "license": "CC BY 2.0",
+      "sha256": "6693b5c31f88dd628406e48d22a5ac10c5a75a2a7f48b42ddc1e78c2c6e5cc02",
+      "used": true
+    },
+    {
+      "file": "rust-code-screen.jpg",
+      "width": 1523,
+      "height": 1438,
+      "frames": "1",
+      "license": "CC0 1.0",
+      "sha256": "3f4ee231e67b6134ddff23a61e7265cfc3a410c4314adc517ade4ebf081e46b9",
+      "used": true
+    },
+    {
+      "file": "nersc-server-racks.jpg",
+      "width": 4288,
+      "height": 2848,
+      "frames": "1",
+      "license": "CC0 1.0",
+      "sha256": "5555cef940402c6e2f7e61236af44c620acb7a906febdf67a613ad178b33ed0e",
+      "used": true
+    },
+    {
+      "file": "computer-motherboard.jpg",
+      "width": 3264,
+      "height": 2448,
+      "frames": "1",
+      "license": "CC0 1.0",
+      "sha256": "196bdd993f17380f324057aaa4b2c86da29f62e046eb545edd45320348e7dbc0",
+      "used": true
+    },
+    {
+      "file": "google-deepmind-london-2017.jpg",
+      "width": 2448,
+      "height": 3264,
+      "frames": "1",
+      "license": "CC BY-SA 4.0",
+      "sha256": "db1641bc7b949b5787eb9798f882fe2b5d6783bd65c29e6391ab06fd51df7752",
+      "used": true
+    }
+  ],
+  "failures": []
+}

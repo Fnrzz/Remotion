@@ -1,0 +1,40 @@
+{
+  "output": "out/episode-003-gemini-4-carbon.mp4",
+  "video": {
+    "codec": "h264",
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "pixelFormat": "yuvj420p",
+    "frames": "1268"
+  },
+  "audio": {
+    "codec": "aac",
+    "sampleRate": "48000",
+    "channels": 2
+  },
+  "duration": "42.283000",
+  "audioChecks": [
+    {
+      "startSeconds": 0,
+      "correlation": 0.9999684970593844
+    },
+    {
+      "startSeconds": 10,
+      "correlation": 0.9999678175892576
+    },
+    {
+      "startSeconds": 20,
+      "correlation": 0.9999760299278762
+    },
+    {
+      "startSeconds": 30,
+      "correlation": 0.999950891919979
+    },
+    {
+      "startSeconds": 39,
+      "correlation": 0.9999643258128121
+    }
+  ],
+  "failures": []
+}

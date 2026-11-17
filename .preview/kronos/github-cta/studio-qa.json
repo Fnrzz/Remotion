@@ -1,0 +1,4280 @@
+{
+  "checks": [
+    {
+      "frame": 0,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C4",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "AI ini bisa",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C4",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "AI ini bisa",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 17,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C4",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "AI ini bisa",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 18,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C4",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "memproyeksikan candlestick",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 19,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C4",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "memproyeksikan candlestick",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 40,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C4",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "memproyeksikan candlestick",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 75,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C4",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "memproyeksikan candlestick",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 76,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "tanpa melihat grafiknya.",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 77,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "tanpa melihat grafiknya.",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 90,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "tanpa melihat grafiknya.",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 120,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "tanpa melihat grafiknya.",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 125,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "tanpa melihat grafiknya.",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 126,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C3",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Kenalin, Kronos,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 127,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C3",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Kenalin, Kronos,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 138,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C3",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Kenalin, Kronos,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 160,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C3",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Kenalin, Kronos,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 178,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C3",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Kenalin, Kronos,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 179,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C3",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "model AI yang dirancang",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 180,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C3",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "model AI yang dirancang",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 212,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C3",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "model AI yang dirancang",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 213,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C3",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "khusus buat menganalisis",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 214,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C3",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "khusus buat menganalisis",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 220,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C3",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "khusus buat menganalisis",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 257,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C3",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "khusus buat menganalisis",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 258,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C3",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "data pasar.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 259,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C3",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "data pasar.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 279,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C3",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "data pasar.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 280,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Plot twist-nya,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 281,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Plot twist-nya,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 292,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Plot twist-nya,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 300,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Plot twist-nya,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 306,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Plot twist-nya,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 307,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "yang diproses",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 308,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "yang diproses",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 332,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "yang diproses",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 333,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "bukan screenshot,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 334,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "bukan screenshot,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 373,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "bukan screenshot,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 374,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "tapi angka di balik",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 375,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "tapi angka di balik",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 400,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "tapi angka di balik",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 411,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "tapi angka di balik",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 412,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "setiap candle.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 413,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "setiap candle.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 435,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "setiap candle.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 436,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Mulai dari harga buka,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 437,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Mulai dari harga buka,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 479,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Mulai dari harga buka,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 480,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "tertinggi, terendah,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 481,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "tertinggi, terendah,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 518,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "tertinggi, terendah,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 519,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "sampai harga penutupan,",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 520,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "sampai harga penutupan,",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 567,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "sampai harga penutupan,",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 568,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "lengkap dengan",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 569,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "lengkap dengan",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 587,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "lengkap dengan",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 588,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "informasi waktunya.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 589,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "informasi waktunya.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 600,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "informasi waktunya.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 616,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "informasi waktunya.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 617,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Nah, angka-angka ini",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 618,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Nah, angka-angka ini",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 629,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Nah, angka-angka ini",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 630,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Nah, angka-angka ini",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 659,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Nah, angka-angka ini",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 660,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "diubah jadi token.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 661,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "diubah jadi token.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 680,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "diubah jadi token.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 701,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "diubah jadi token.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 702,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Kronos memprediksi",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 703,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Kronos memprediksi",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 732,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Kronos memprediksi",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 733,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "urutan berikutnya",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 734,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "urutan berikutnya",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 764,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "urutan berikutnya",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 765,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "lalu mengubahnya lagi",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 766,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "lalu mengubahnya lagi",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 780,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "lalu mengubahnya lagi",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 797,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "lalu mengubahnya lagi",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 798,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "jadi proyeksi data.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 799,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "jadi proyeksi data.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 831,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "jadi proyeksi data.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 832,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Bahkan lewat",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 833,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Bahkan lewat",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 844,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Bahkan lewat",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 850,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Bahkan lewat",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 852,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Bahkan lewat",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 853,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "proses sampling,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 854,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "proses sampling,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 882,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "proses sampling,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 883,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "model ini bisa",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 884,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "model ini bisa",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 907,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "model ini bisa",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 908,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "menghasilkan beberapa",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 909,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "menghasilkan beberapa",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 930,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "menghasilkan beberapa",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 944,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "menghasilkan beberapa",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 945,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "skenario pergerakan,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 946,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "skenario pergerakan,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 983,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "skenario pergerakan,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 984,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "bukan cuma satu.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 985,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "bukan cuma satu.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1000,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "bukan cuma satu.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1023,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C1",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "bukan cuma satu.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1024,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Tapi ingat,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1025,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Tapi ingat,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1036,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Tapi ingat,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1045,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Tapi ingat,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1046,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "ini bukan mesin",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1047,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "ini bukan mesin",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1060,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "ini bukan mesin",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1071,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "ini bukan mesin",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1072,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "pembaca masa depan.",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1073,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "pembaca masa depan.",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1109,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R2C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "pembaca masa depan.",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1110,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Proyeksi bukan kepastian,",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1111,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Proyeksi bukan kepastian,",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1150,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Proyeksi bukan kepastian,",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1161,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Proyeksi bukan kepastian,",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1162,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "dan hasil riset",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1163,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "dan hasil riset",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1186,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "dan hasil riset",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1187,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "bukan jaminan untung",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1188,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "bukan jaminan untung",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1200,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "bukan jaminan untung",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1223,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "bukan jaminan untung",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1224,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "saat trading.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1225,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "saat trading.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1251,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R4C2",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "saat trading.",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1252,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Menurut kamu,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1253,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Menurut kamu,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1264,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Menurut kamu,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1279,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "Menurut kamu,",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1280,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "teknologi kayak gini",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1281,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "teknologi kayak gini",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1327,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "teknologi kayak gini",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1328,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "lebih menarik",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1329,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "lebih menarik",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1343,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C5",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "lebih menarik",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1344,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C3",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "buat riset AI",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1345,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C3",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "buat riset AI",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1367,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C3",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "buat riset AI",
+      "lines": 1,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1368,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C3",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "atau buat analisis pasar?",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1369,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C3",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "atau buat analisis pasar?",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1400,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C3",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "atau buat analisis pasar?",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    },
+    {
+      "frame": 1424,
+      "githubCtaCorrect": true,
+      "character": {
+        "pose": "R1C3",
+        "sameNode": true,
+        "stationary": true,
+        "box": {
+          "left": 548.0000921828909,
+          "top": 1167.9220247971978,
+          "right": 828.0000921828909,
+          "bottom": 1416.0000115228613
+        },
+        "clearsContent": true,
+        "clearsSubtitles": true
+      },
+      "cardless": true,
+      "sameNode": true,
+      "subtitle": "atau buat analisis pasar?",
+      "lines": 2,
+      "fits": true,
+      "box": {
+        "left": 132.0000230457227,
+        "top": 1271.8126037057523,
+        "right": 524.0000460914455,
+        "bottom": 1391.0000115228613
+      },
+      "unsafe": []
+    }
+  ],
+  "fonts": [
+    {
+      "family": "\"Plus Jakarta Sans\"",
+      "status": "loaded"
+    },
+    {
+      "family": "\"Plus Jakarta Sans\"",
+      "status": "loaded"
+    }
+  ],
+  "overlay": true,
+  "images": 1,
+  "failures": []
+}

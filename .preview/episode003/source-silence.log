@@ -1,0 +1,43 @@
+[mp3 @ 0x7be0c20000] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from 'public/assets/audio/vo-gemini4carbon.mp3':
+  Metadata:
+    encoder         : Lavf63.1.102
+  Duration: 00:00:42.27, start: 0.000000, bitrate: 131 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (mp3 (mp3float) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf62.3.100
+  Stream #0:0: Audio: pcm_s16le, 44100 Hz, mono, s16, 705 kb/s
+    Metadata:
+      encoder         : Lavc62.11.100 pcm_s16le
+[silencedetect @ 0x7be109c360] silence_start: 2.217438
+[silencedetect @ 0x7be109c360] silence_end: 2.75415 | silence_duration: 0.536712
+[silencedetect @ 0x7be109c360] silence_start: 4.264558
+[silencedetect @ 0x7be109c360] silence_end: 4.63551 | silence_duration: 0.370952
+[silencedetect @ 0x7be109c360] silence_start: 9.2539
+[silencedetect @ 0x7be109c360] silence_end: 9.430363 | silence_duration: 0.176463
+[silencedetect @ 0x7be109c360] silence_start: 10.899683
+[silencedetect @ 0x7be109c360] silence_end: 11.261179 | silence_duration: 0.361497
+[silencedetect @ 0x7be109c360] silence_start: 14.464989
+[silencedetect @ 0x7be109c360] silence_end: 14.655873 | silence_duration: 0.190884
+[silencedetect @ 0x7be109c360] silence_start: 18.238481
+[silencedetect @ 0x7be109c360] silence_end: 18.629093 | silence_duration: 0.390612
+[silencedetect @ 0x7be109c360] silence_start: 19.798277
+[silencedetect @ 0x7be109c360] silence_end: 19.983379 | silence_duration: 0.185102
+[silencedetect @ 0x7be109c360] silence_start: 22.260907
+[silencedetect @ 0x7be109c360] silence_end: 22.44941 | silence_duration: 0.188503
+[silencedetect @ 0x7be109c360] silence_start: 25.659184
+[silencedetect @ 0x7be109c360] silence_end: 26.000612 | silence_duration: 0.341429
+[silencedetect @ 0x7be109c360] silence_start: 27.588617
+[silencedetect @ 0x7be109c360] silence_end: 27.808912 | silence_duration: 0.220295
+[silencedetect @ 0x7be109c360] silence_start: 33.788639
+[silencedetect @ 0x7be109c360] silence_end: 34.144512 | silence_duration: 0.355873
+[silencedetect @ 0x7be109c360] silence_start: 36.55
+[silencedetect @ 0x7be109c360] silence_end: 36.869751 | silence_duration: 0.319751
+[silencedetect @ 0x7be109c360] silence_start: 42.07576
+[silencedetect @ 0x7be109c360] silence_end: 42.266122 | silence_duration: 0.190363
+[out#0/null @ 0x7be102ccc0] video:0KiB audio:3640KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:42.26 bitrate=N/A speed=1.4e+03x elapsed=0:00:00.03    

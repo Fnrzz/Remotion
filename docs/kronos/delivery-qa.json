@@ -1,0 +1,46 @@
+{
+  "output": "out/kronos-documentary.mp4",
+  "sha256": "d75973ad36bbfc09a68e8c48d571844ec882d7dc0287e3364419e543d171902e",
+  "source_audio_sha256": "711b69e55afd40c9647600e6e04e051a6a5025970a8001c60134d8b25c53b1b5",
+  "duration_seconds": 47.509,
+  "video": {
+    "codec": "h264",
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "frames": "1425",
+    "pixel_format": "yuv420p",
+    "color_space": "bt709",
+    "color_range": "tv",
+    "bitrate": "180893"
+  },
+  "audio": {
+    "codec": "aac",
+    "sample_rate": "48000",
+    "channels": 2,
+    "bitrate": "189376"
+  },
+  "audio_waveform_check": {
+    "correlation": 0.9999663939431144,
+    "lagSamples": 0,
+    "lag_ms": 0,
+    "method": "mono 16 kHz normalized cross-correlation, AAC vs supplied MP3; not listening verification"
+  },
+  "complete_decode": "passed",
+  "studio_frames_checked": 147,
+  "studio_failures": 0,
+  "exported_frame_map": [
+    40,
+    110,
+    200,
+    450,
+    810,
+    940,
+    1140,
+    1350
+  ],
+  "representative_frames": ".preview/kronos/export/",
+  "caption_count": 41,
+  "publication_status": "Technical export checked. Native-speaker listening and final editorial approval still recommended; ASR timings are not audited forced alignment.",
+  "failures": []
+}

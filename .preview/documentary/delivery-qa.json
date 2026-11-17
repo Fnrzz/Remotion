@@ -1,0 +1,89 @@
+{
+  "output": "out/episode-003-gemini-4-carbon-documentary.mp4",
+  "video": {
+    "codec": "h264",
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "frames": "1268",
+    "pixelFormat": "yuvj420p"
+  },
+  "audio": {
+    "codec": "aac",
+    "sampleRate": "48000",
+    "channels": 2
+  },
+  "duration": "42.283000",
+  "fullDecodePassed": true,
+  "noBlankBlackFrames": true,
+  "audioChecks": [
+    {
+      "startSeconds": 0,
+      "correlation": 0.9999684970593844
+    },
+    {
+      "startSeconds": 10,
+      "correlation": 0.9999678175892576
+    },
+    {
+      "startSeconds": 20,
+      "correlation": 0.9999760299278762
+    },
+    {
+      "startSeconds": 30,
+      "correlation": 0.999950891919979
+    },
+    {
+      "startSeconds": 39,
+      "correlation": 0.9999643258128121
+    }
+  ],
+  "visualChecks": [
+    {
+      "frame": 60,
+      "reference": ".preview/documentary/hook-60-single.png",
+      "ssim": 0.963467
+    },
+    {
+      "frame": 200,
+      "reference": ".preview/documentary/stills/element-0200.png",
+      "ssim": 0.966896
+    },
+    {
+      "frame": 380,
+      "reference": ".preview/documentary/workflow-380-single.png",
+      "ssim": 0.971228
+    },
+    {
+      "frame": 480,
+      "reference": ".preview/documentary/stills/element-0480.png",
+      "ssim": 0.976968
+    },
+    {
+      "frame": 530,
+      "reference": ".preview/documentary/stills/element-0530.png",
+      "ssim": 0.979746
+    },
+    {
+      "frame": 620,
+      "reference": ".preview/documentary/stills/element-0620.png",
+      "ssim": 0.972977
+    },
+    {
+      "frame": 710,
+      "reference": ".preview/documentary/cyber-710-single.png",
+      "ssim": 0.999041
+    },
+    {
+      "frame": 900,
+      "reference": ".preview/documentary/stills/element-0900.png",
+      "ssim": 0.961975
+    },
+    {
+      "frame": 1160,
+      "reference": ".preview/documentary/stills/element-1160.png",
+      "ssim": 0.980023
+    }
+  ],
+  "failures": []
+}

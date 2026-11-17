@@ -1,0 +1,19 @@
+{
+  "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+  "title": "mistralai/Mistral-Large-4-1T-A52B · Hugging Face",
+  "heading": "\n\t\n\t\t\n\t\n\t\n\t\tMistral Large 4 - Le Chonk\n\t\n",
+  "articleTag": "DIV",
+  "articleClass": "model-card-content prose md:px-6 md:-mx-6 lg:-mr-20 lg:pr-20 xl:-mr-24 xl:pr-24 2xl:-mr-36 2xl:pr-36 hf-sanitized hf-sanitized-LCJ6dJg5MNreukbh7prqm copiable-code-container",
+  "firstParagraph": "Mistral Large 4 is our largest and most capable model to date: a 1 trillion-parameter natively multimodal Mixture-of-Experts model with 49 billion active parameters per token (52 billion including embeddings and output layers), trained from scratch on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own datacenters in Europe.",
+  "secondParagraph": "Mistral Large 4 unifies instruction following, reasoning, coding, and agentic workflows in a single set of weights. While a generalist model, it shows especially good performance on workloads such as cybersecurity, finance, and law, and it surpasses frontier closed models on visual grounding. It is natively fluent in 160+ languages, including every official language of the European Union.",
+  "clip": {
+    "x": 52,
+    "y": 267,
+    "width": 718,
+    "height": 363,
+    "scale": 1
+  },
+  "capturedOn": "2026-11-01T03:15:18.779Z",
+  "file": "public/assets/mistral/huggingface-mistral-model-card.png",
+  "sha256": "fd6faa1ec81497668793082e3ce44f0cd8964813df3ce07f4c1cd58fdb1034a4"
+}

@@ -1,0 +1,3683 @@
+{
+  "anchors": [
+    {
+      "id": "Genie4News",
+      "character": {
+        "width": "280px",
+        "right": "252px",
+        "bottom": "504px"
+      },
+      "subtitle": {
+        "width": "392px",
+        "height": "119.188px",
+        "fontSize": "32px"
+      },
+      "overlay": {
+        "src": "/static-e5f1078d6b5e/assets/overlays/tiktok-safe-zone-orson-lord.png",
+        "opacity": 0.65,
+        "width": "1080px",
+        "height": "1920px"
+      }
+    },
+    {
+      "id": "Gemini4CarbonNews",
+      "character": {
+        "width": "280px",
+        "right": "252px",
+        "bottom": "504px"
+      },
+      "subtitle": {
+        "width": "392px",
+        "height": "119.188px",
+        "fontSize": "32px"
+      },
+      "overlay": {
+        "src": "/static-e5f1078d6b5e/assets/overlays/tiktok-safe-zone-orson-lord.png",
+        "opacity": 0.65,
+        "width": "1080px",
+        "height": "1920px"
+      }
+    },
+    {
+      "id": "TerraVsSolNews",
+      "character": {
+        "width": "280px",
+        "right": "252px",
+        "bottom": "504px"
+      },
+      "subtitle": {
+        "width": "392px",
+        "height": "119.188px",
+        "fontSize": "32px"
+      },
+      "overlay": {
+        "src": "/static-e5f1078d6b5e/assets/overlays/tiktok-safe-zone-orson-lord.png",
+        "opacity": 0.65,
+        "width": "1080px",
+        "height": "1920px"
+      }
+    },
+    {
+      "id": "MistralLarge4News",
+      "character": {
+        "width": "280px",
+        "right": "252px",
+        "bottom": "504px"
+      },
+      "subtitle": {
+        "width": "392px",
+        "height": "119.188px",
+        "fontSize": "32px"
+      },
+      "overlay": {
+        "src": "/static-e5f1078d6b5e/assets/overlays/tiktok-safe-zone-orson-lord.png",
+        "opacity": 0.65,
+        "width": "1080px",
+        "height": "1920px"
+      }
+    }
+  ],
+  "checks": [
+    {
+      "frame": 0,
+      "text": "AI ini bisa dijalankan",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C4",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": true,
+      "logoReady": true,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 1,
+      "text": "AI ini bisa dijalankan",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C4",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": true,
+      "logoReady": true,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 6,
+      "text": "AI ini bisa dijalankan",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C4",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": true,
+      "logoReady": true,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 43,
+      "text": "AI ini bisa dijalankan",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C4",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": true,
+      "logoReady": true,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 44,
+      "text": "di server sendiri",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": true,
+      "logoReady": true,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 45,
+      "text": "di server sendiri",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": true,
+      "logoReady": true,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 60,
+      "text": "di server sendiri",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": true,
+      "logoReady": true,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 83,
+      "text": "di server sendiri",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": true,
+      "logoReady": true,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 84,
+      "text": "tanpa harus lewat\nAPI Mistral?",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": true,
+      "logoReady": true,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 85,
+      "text": "tanpa harus lewat\nAPI Mistral?",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": true,
+      "logoReady": true,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 143,
+      "text": "tanpa harus lewat\nAPI Mistral?",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 1,
+      "expectedPhoto": 1,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 144,
+      "text": "Yup, Mistral baru aja merilis",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C3",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 1,
+      "expectedPhoto": 1,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 145,
+      "text": "Yup, Mistral baru aja merilis",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C3",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 1,
+      "expectedPhoto": 1,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 200,
+      "text": "Yup, Mistral baru aja merilis",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C3",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 1,
+      "expectedPhoto": 1,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 203,
+      "text": "Yup, Mistral baru aja merilis",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C3",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 1,
+      "expectedPhoto": 1,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 204,
+      "text": "bobot model AI terbarunya,",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 1,
+      "expectedPhoto": 1,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 205,
+      "text": "bobot model AI terbarunya,",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 1,
+      "expectedPhoto": 1,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 262,
+      "text": "bobot model AI terbarunya,",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 1,
+      "expectedPhoto": 1,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 263,
+      "text": "Mistral Large 4.",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C4",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 1,
+      "expectedPhoto": 1,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 264,
+      "text": "Mistral Large 4.",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C4",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 1,
+      "expectedPhoto": 1,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 305,
+      "text": "Mistral Large 4.",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C4",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": true,
+      "screenshotPresent": true,
+      "screenshotReady": true,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 306,
+      "text": "Bobot ini adalah parameter",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C1",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": true,
+      "screenshotPresent": true,
+      "screenshotReady": true,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 307,
+      "text": "Bobot ini adalah parameter",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C1",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": true,
+      "screenshotPresent": true,
+      "screenshotReady": true,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 360,
+      "text": "Bobot ini adalah parameter",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C1",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": true,
+      "screenshotPresent": true,
+      "screenshotReady": true,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 361,
+      "text": "yang dipakai AI saat bekerja.",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": true,
+      "screenshotPresent": true,
+      "screenshotReady": true,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 362,
+      "text": "yang dipakai AI saat bekerja.",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": true,
+      "screenshotPresent": true,
+      "screenshotReady": true,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 390,
+      "text": "yang dipakai AI saat bekerja.",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": true,
+      "screenshotPresent": true,
+      "screenshotReady": true,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 406,
+      "text": "yang dipakai AI saat bekerja.",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": true,
+      "screenshotPresent": true,
+      "screenshotReady": true,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 407,
+      "text": "Dan sekarang, file-nya",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C3",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": true,
+      "screenshotPresent": true,
+      "screenshotReady": true,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 408,
+      "text": "Dan sekarang, file-nya",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C3",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": true,
+      "screenshotPresent": true,
+      "screenshotReady": true,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 445,
+      "text": "Dan sekarang, file-nya",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C3",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": true,
+      "screenshotPresent": true,
+      "screenshotReady": true,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 446,
+      "text": "tersedia di Hugging Face.",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C3",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": true,
+      "screenshotPresent": true,
+      "screenshotReady": true,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 447,
+      "text": "tersedia di Hugging Face.",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C3",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": true,
+      "screenshotPresent": true,
+      "screenshotReady": true,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [],
+      "expectedMotion": null
+    },
+    {
+      "frame": 490,
+      "text": "tersedia di Hugging Face.",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C3",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "management"
+      ],
+      "expectedMotion": "management"
+    },
+    {
+      "frame": 491,
+      "text": "Artinya, developer punya opsi",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "management"
+      ],
+      "expectedMotion": "management"
+    },
+    {
+      "frame": 492,
+      "text": "Artinya, developer punya opsi",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "management"
+      ],
+      "expectedMotion": "management"
+    },
+    {
+      "frame": 500,
+      "text": "Artinya, developer punya opsi",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "management"
+      ],
+      "expectedMotion": "management"
+    },
+    {
+      "frame": 544,
+      "text": "Artinya, developer punya opsi",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "management"
+      ],
+      "expectedMotion": "management"
+    },
+    {
+      "frame": 545,
+      "text": "buat menyesuaikan model",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C1",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "management"
+      ],
+      "expectedMotion": "management"
+    },
+    {
+      "frame": 546,
+      "text": "buat menyesuaikan model",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C1",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "management"
+      ],
+      "expectedMotion": "management"
+    },
+    {
+      "frame": 587,
+      "text": "buat menyesuaikan model",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C1",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "management"
+      ],
+      "expectedMotion": "management"
+    },
+    {
+      "frame": 588,
+      "text": "dan menentukan sendiri",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "management"
+      ],
+      "expectedMotion": "management"
+    },
+    {
+      "frame": 589,
+      "text": "dan menentukan sendiri",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "management"
+      ],
+      "expectedMotion": "management"
+    },
+    {
+      "frame": 600,
+      "text": "dan menentukan sendiri",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "management"
+      ],
+      "expectedMotion": "management"
+    },
+    {
+      "frame": 620,
+      "text": "dan menentukan sendiri",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "management"
+      ],
+      "expectedMotion": "management"
+    },
+    {
+      "frame": 626,
+      "text": "dan menentukan sendiri",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "management"
+      ],
+      "expectedMotion": "management"
+    },
+    {
+      "frame": 627,
+      "text": "di mana AI-nya dijalankan.",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "management"
+      ],
+      "expectedMotion": "management"
+    },
+    {
+      "frame": 628,
+      "text": "di mana AI-nya dijalankan.",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "management"
+      ],
+      "expectedMotion": "management"
+    },
+    {
+      "frame": 680,
+      "text": "di mana AI-nya dijalankan.",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "management"
+      ],
+      "expectedMotion": "management"
+    },
+    {
+      "frame": 681,
+      "text": "Tapi tunggu dulu.",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 682,
+      "text": "Tapi tunggu dulu.",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 710,
+      "text": "Tapi tunggu dulu.",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 711,
+      "text": "Open-weight bukan berarti\nbebas aturan",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 712,
+      "text": "Open-weight bukan berarti\nbebas aturan",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 750,
+      "text": "Open-weight bukan berarti\nbebas aturan",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 781,
+      "text": "Open-weight bukan berarti\nbebas aturan",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 782,
+      "text": "atau bisa langsung jalan\ndi semua laptop.",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R3C1",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 783,
+      "text": "atau bisa langsung jalan\ndi semua laptop.",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R3C1",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 848,
+      "text": "atau bisa langsung jalan\ndi semua laptop.",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R3C1",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 849,
+      "text": "Kamu tetap perlu infrastruktur,",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 850,
+      "text": "Kamu tetap perlu infrastruktur,",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 900,
+      "text": "Kamu tetap perlu infrastruktur,",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 904,
+      "text": "Kamu tetap perlu infrastruktur,",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 905,
+      "text": "keahlian teknis,",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C1",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 906,
+      "text": "keahlian teknis,",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C1",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 938,
+      "text": "keahlian teknis,",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C1",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 939,
+      "text": "dan memahami lisensinya.",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 940,
+      "text": "dan memahami lisensinya.",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 984,
+      "text": "dan memahami lisensinya.",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 985,
+      "text": "Apalagi kalau mau menyediakan",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 986,
+      "text": "Apalagi kalau mau menyediakan",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 1020,
+      "text": "Apalagi kalau mau menyediakan",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 1027,
+      "text": "Apalagi kalau mau menyediakan",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 1028,
+      "text": "model ini sebagai layanan.",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R3C1",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 1029,
+      "text": "model ini sebagai layanan.",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R3C1",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 1074,
+      "text": "model ini sebagai layanan.",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R3C1",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 1,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "limits"
+      ],
+      "expectedMotion": "limits"
+    },
+    {
+      "frame": 1075,
+      "text": "Dan tenang, API Mistral",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C3",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "api-available"
+      ],
+      "expectedMotion": "api-available"
+    },
+    {
+      "frame": 1076,
+      "text": "Dan tenang, API Mistral",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C3",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "api-available"
+      ],
+      "expectedMotion": "api-available"
+    },
+    {
+      "frame": 1110,
+      "text": "Dan tenang, API Mistral",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C3",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "api-available"
+      ],
+      "expectedMotion": "api-available"
+    },
+    {
+      "frame": 1122,
+      "text": "Dan tenang, API Mistral",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C3",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "api-available"
+      ],
+      "expectedMotion": "api-available"
+    },
+    {
+      "frame": 1123,
+      "text": "masih tetap tersedia.",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C3",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "api-available"
+      ],
+      "expectedMotion": "api-available"
+    },
+    {
+      "frame": 1124,
+      "text": "masih tetap tersedia.",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C3",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "api-available"
+      ],
+      "expectedMotion": "api-available"
+    },
+    {
+      "frame": 1130,
+      "text": "masih tetap tersedia.",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C3",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "api-available"
+      ],
+      "expectedMotion": "api-available"
+    },
+    {
+      "frame": 1175,
+      "text": "masih tetap tersedia.",
+      "sameNode": true,
+      "lines": 1,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C3",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "closing-choice"
+      ],
+      "expectedMotion": "closing-choice"
+    },
+    {
+      "frame": 1176,
+      "text": "Nah, kalau buat\nproyekmu sendiri,",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "closing-choice"
+      ],
+      "expectedMotion": "closing-choice"
+    },
+    {
+      "frame": 1177,
+      "text": "Nah, kalau buat\nproyekmu sendiri,",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "closing-choice"
+      ],
+      "expectedMotion": "closing-choice"
+    },
+    {
+      "frame": 1237,
+      "text": "Nah, kalau buat\nproyekmu sendiri,",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "closing-choice"
+      ],
+      "expectedMotion": "closing-choice"
+    },
+    {
+      "frame": 1238,
+      "text": "kamu lebih pilih\npraktis lewat API",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "closing-choice"
+      ],
+      "expectedMotion": "closing-choice"
+    },
+    {
+      "frame": 1239,
+      "text": "kamu lebih pilih\npraktis lewat API",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "closing-choice"
+      ],
+      "expectedMotion": "closing-choice"
+    },
+    {
+      "frame": 1250,
+      "text": "kamu lebih pilih\npraktis lewat API",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "closing-choice"
+      ],
+      "expectedMotion": "closing-choice"
+    },
+    {
+      "frame": 1260,
+      "text": "kamu lebih pilih\npraktis lewat API",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "closing-choice"
+      ],
+      "expectedMotion": "closing-choice"
+    },
+    {
+      "frame": 1311,
+      "text": "kamu lebih pilih\npraktis lewat API",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R2C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "closing-choice"
+      ],
+      "expectedMotion": "closing-choice"
+    },
+    {
+      "frame": 1312,
+      "text": "atau punya kendali lebih dengan",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "closing-choice"
+      ],
+      "expectedMotion": "closing-choice"
+    },
+    {
+      "frame": 1313,
+      "text": "atau punya kendali lebih dengan",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "closing-choice"
+      ],
+      "expectedMotion": "closing-choice"
+    },
+    {
+      "frame": 1330,
+      "text": "atau punya kendali lebih dengan",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "closing-choice"
+      ],
+      "expectedMotion": "closing-choice"
+    },
+    {
+      "frame": 1347,
+      "text": "atau punya kendali lebih dengan",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R4C2",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "closing-choice"
+      ],
+      "expectedMotion": "closing-choice"
+    },
+    {
+      "frame": 1348,
+      "text": "menjalankannya sendiri?",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "closing-choice"
+      ],
+      "expectedMotion": "closing-choice"
+    },
+    {
+      "frame": 1349,
+      "text": "menjalankannya sendiri?",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "closing-choice"
+      ],
+      "expectedMotion": "closing-choice"
+    },
+    {
+      "frame": 1383,
+      "text": "menjalankannya sendiri?",
+      "sameNode": true,
+      "lines": 2,
+      "fits": true,
+      "subtitle": {
+        "left": 132.00003268828453,
+        "top": 1271.8125653765692,
+        "right": 524.0000653765691,
+        "bottom": 1390.999934623431
+      },
+      "character": {
+        "left": 547.9999673117155,
+        "top": 1167.9218423117156,
+        "right": 827.9999673117155,
+        "bottom": 1415.999934623431
+      },
+      "pose": "R1C5",
+      "collisions": [],
+      "branding": true,
+      "customUi": false,
+      "sourceCount": 0,
+      "illustrationLabel": false,
+      "footerText": [],
+      "screenshotExpected": false,
+      "screenshotPresent": false,
+      "screenshotReady": false,
+      "logoExpected": false,
+      "logoReady": false,
+      "photos": 0,
+      "expectedPhoto": 0,
+      "motion": [
+        "closing-choice"
+      ],
+      "expectedMotion": "closing-choice"
+    }
+  ],
+  "failures": [],
+  "anchorMismatches": [],
+  "poseCount": 10,
+  "poseChanges": 27
+}

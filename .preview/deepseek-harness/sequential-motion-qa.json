@@ -1,0 +1,160 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "frame": 345,
+      "system": "harness",
+      "modules": [
+        {
+          "name": "model",
+          "opacity": 1
+        },
+        {
+          "name": "loop",
+          "opacity": 0
+        },
+        {
+          "name": "tools",
+          "opacity": 0
+        },
+        {
+          "name": "storage",
+          "opacity": 0
+        },
+        {
+          "name": "sandbox",
+          "opacity": 0
+        }
+      ],
+      "shown": [
+        "model"
+      ]
+    },
+    {
+      "frame": 365,
+      "system": "harness",
+      "modules": [
+        {
+          "name": "model",
+          "opacity": 1
+        },
+        {
+          "name": "loop",
+          "opacity": 1
+        },
+        {
+          "name": "tools",
+          "opacity": 0
+        },
+        {
+          "name": "storage",
+          "opacity": 0
+        },
+        {
+          "name": "sandbox",
+          "opacity": 0
+        }
+      ],
+      "shown": [
+        "model",
+        "loop"
+      ]
+    },
+    {
+      "frame": 385,
+      "system": "harness",
+      "modules": [
+        {
+          "name": "model",
+          "opacity": 1
+        },
+        {
+          "name": "loop",
+          "opacity": 1
+        },
+        {
+          "name": "tools",
+          "opacity": 1
+        },
+        {
+          "name": "storage",
+          "opacity": 0
+        },
+        {
+          "name": "sandbox",
+          "opacity": 0
+        }
+      ],
+      "shown": [
+        "model",
+        "loop",
+        "tools"
+      ]
+    },
+    {
+      "frame": 405,
+      "system": "harness",
+      "modules": [
+        {
+          "name": "model",
+          "opacity": 1
+        },
+        {
+          "name": "loop",
+          "opacity": 1
+        },
+        {
+          "name": "tools",
+          "opacity": 1
+        },
+        {
+          "name": "storage",
+          "opacity": 1
+        },
+        {
+          "name": "sandbox",
+          "opacity": 0
+        }
+      ],
+      "shown": [
+        "model",
+        "loop",
+        "tools",
+        "storage"
+      ]
+    },
+    {
+      "frame": 425,
+      "system": "harness",
+      "modules": [
+        {
+          "name": "model",
+          "opacity": 1
+        },
+        {
+          "name": "loop",
+          "opacity": 1
+        },
+        {
+          "name": "tools",
+          "opacity": 1
+        },
+        {
+          "name": "storage",
+          "opacity": 1
+        },
+        {
+          "name": "sandbox",
+          "opacity": 1
+        }
+      ],
+      "shown": [
+        "model",
+        "loop",
+        "tools",
+        "storage",
+        "sandbox"
+      ]
+    }
+  ]
+}

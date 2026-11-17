@@ -1,0 +1,240 @@
+[
+  {
+    "text": "Bayangin!",
+    "startMs": 0,
+    "endMs": 990,
+    "timestampMs": 60,
+    "confidence": null
+  },
+  {
+    "text": "AI nggak cuma ngasih tahu",
+    "startMs": 990,
+    "endMs": 2360,
+    "timestampMs": 990,
+    "confidence": null
+  },
+  {
+    "text": "tombol mana yang harus diklik,",
+    "startMs": 2360,
+    "endMs": 4210,
+    "timestampMs": 2360,
+    "confidence": null
+  },
+  {
+    "text": "tapi bisa klik dan ngetik",
+    "startMs": 4210,
+    "endMs": 5690,
+    "timestampMs": 4210,
+    "confidence": null
+  },
+  {
+    "text": "di aplikasi desktop.",
+    "startMs": 5690,
+    "endMs": 7140,
+    "timestampMs": 5690,
+    "confidence": null
+  },
+  {
+    "text": "Nah, ada tool open source",
+    "startMs": 7140,
+    "endMs": 8650,
+    "timestampMs": 7140,
+    "confidence": null
+  },
+  {
+    "text": "bernama agent-desktop,",
+    "startMs": 8650,
+    "endMs": 10220,
+    "timestampMs": 8650,
+    "confidence": null
+  },
+  {
+    "text": "proyek di Vercel Labs.",
+    "startMs": 10220,
+    "endMs": 11860,
+    "timestampMs": 10220,
+    "confidence": null
+  },
+  {
+    "text": "Tapi menariknya,",
+    "startMs": 11860,
+    "endMs": 13180,
+    "timestampMs": 11860,
+    "confidence": null
+  },
+  {
+    "text": "ini bukan model AI baru,",
+    "startMs": 13180,
+    "endMs": 15080,
+    "timestampMs": 13180,
+    "confidence": null
+  },
+  {
+    "text": "dan bukan agent",
+    "startMs": 15080,
+    "endMs": 16020,
+    "timestampMs": 15080,
+    "confidence": null
+  },
+  {
+    "text": "yang bekerja sendirian.",
+    "startMs": 16020,
+    "endMs": 17540,
+    "timestampMs": 16020,
+    "confidence": null
+  },
+  {
+    "text": "Agent yang memakainya",
+    "startMs": 17540,
+    "endMs": 18740,
+    "timestampMs": 17540,
+    "confidence": null
+  },
+  {
+    "text": "tetap mengatur langkah.",
+    "startMs": 18740,
+    "endMs": 20140,
+    "timestampMs": 18740,
+    "confidence": null
+  },
+  {
+    "text": "Lewat fitur aksesibilitas,",
+    "startMs": 20140,
+    "endMs": 21690,
+    "timestampMs": 20140,
+    "confidence": null
+  },
+  {
+    "text": "tool ini bisa membaca",
+    "startMs": 21690,
+    "endMs": 22850,
+    "timestampMs": 21690,
+    "confidence": null
+  },
+  {
+    "text": "tombol dan menu",
+    "startMs": 22850,
+    "endMs": 23750,
+    "timestampMs": 22850,
+    "confidence": null
+  },
+  {
+    "text": "yang memang disediakan aplikasi.",
+    "startMs": 23750,
+    "endMs": 25820,
+    "timestampMs": 23750,
+    "confidence": null
+  },
+  {
+    "text": "Jadi alurnya simpel:",
+    "startMs": 25820,
+    "endMs": 27130,
+    "timestampMs": 25820,
+    "confidence": null
+  },
+  {
+    "text": "baca antarmuka,",
+    "startMs": 27130,
+    "endMs": 28240,
+    "timestampMs": 27130,
+    "confidence": null
+  },
+  {
+    "text": "kirim tindakan,",
+    "startMs": 28240,
+    "endMs": 29290,
+    "timestampMs": 28240,
+    "confidence": null
+  },
+  {
+    "text": "lalu cek lagi hasilnya.",
+    "startMs": 29290,
+    "endMs": 31060,
+    "timestampMs": 29290,
+    "confidence": null
+  },
+  {
+    "text": "Tapi jangan salah,",
+    "startMs": 31060,
+    "endMs": 32250,
+    "timestampMs": 31060,
+    "confidence": null
+  },
+  {
+    "text": "nggak semua aplikasi didukung.",
+    "startMs": 32250,
+    "endMs": 34180,
+    "timestampMs": 32250,
+    "confidence": null
+  },
+  {
+    "text": "Izin tiap sistem juga berbeda,",
+    "startMs": 34180,
+    "endMs": 35950,
+    "timestampMs": 34180,
+    "confidence": null
+  },
+  {
+    "text": "dan tindakan yang terkirim",
+    "startMs": 35950,
+    "endMs": 37260,
+    "timestampMs": 35950,
+    "confidence": null
+  },
+  {
+    "text": "belum tentu berarti",
+    "startMs": 37260,
+    "endMs": 38330,
+    "timestampMs": 37260,
+    "confidence": null
+  },
+  {
+    "text": "tugasnya selesai.",
+    "startMs": 38330,
+    "endMs": 39460,
+    "timestampMs": 38330,
+    "confidence": null
+  },
+  {
+    "text": "Bahkan snapshot dan log",
+    "startMs": 39460,
+    "endMs": 40940,
+    "timestampMs": 39460,
+    "confidence": null
+  },
+  {
+    "text": "bisa memuat data pribadi.",
+    "startMs": 40940,
+    "endMs": 42900,
+    "timestampMs": 40940,
+    "confidence": null
+  },
+  {
+    "text": "Kalau AI mendapat akses",
+    "startMs": 42900,
+    "endMs": 44140,
+    "timestampMs": 42900,
+    "confidence": null
+  },
+  {
+    "text": "ke komputer kamu,",
+    "startMs": 44140,
+    "endMs": 45180,
+    "timestampMs": 44140,
+    "confidence": null
+  },
+  {
+    "text": "bagian apa yang paling",
+    "startMs": 45180,
+    "endMs": 46400,
+    "timestampMs": 45180,
+    "confidence": null
+  },
+  {
+    "text": "wajib dibatasi?",
+    "startMs": 46400,
+    "endMs": 47569,
+    "timestampMs": 46400,
+    "confidence": null
+  }
+]

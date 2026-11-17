@@ -1,0 +1,316 @@
+{
+  "project": "Kronos editorial research",
+  "researched_on": "2026-11-02",
+  "research_notes": "docs/kronos/research-notes.md",
+  "scope": "Primary-source research and original visual planning only; no media or weights downloaded; no rendered assets created.",
+  "default_visual_policy": "Independently designed attributed editorial cards and diagrams; paraphrase facts. No photos required. Do not copy or trace paper figures by default.",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Official Kronos repository / README",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "revision": "67b630e67f6a18c9e9be918d9b4337c960db1e9a",
+      "pinned_text_url": "https://raw.githubusercontent.com/shiyu-coder/Kronos/67b630e67f6a18c9e9be918d9b4337c960db1e9a/README.md",
+      "sha256_raw_bytes": "b815b608192afa4b805a11bcbb66268f3e3db55736218964944318da7865357e",
+      "verification": "Direct read of website and pinned README; GitHub head API checked.",
+      "license": "MIT project code and associated documentation; platform UI and third-party assets not automatically covered",
+      "facts": [
+        "two-stage framework",
+        "optional activity fields",
+        "current model zoo",
+        "2025-08-02 paper announcement",
+        "2025-08-17 finetuning scripts",
+        "not production-ready disclaimer"
+      ]
+    },
+    {
+      "id": "S2",
+      "title": "NeoQuasar/Kronos-base official model card and artifact metadata",
+      "url": "https://huggingface.co/NeoQuasar/Kronos-base",
+      "api_url": "https://huggingface.co/api/models/NeoQuasar/Kronos-base",
+      "revision": "2b554741eca47781b64468546e77fef3e85130e6",
+      "pinned_text_url": "https://huggingface.co/NeoQuasar/Kronos-base/raw/2b554741eca47781b64468546e77fef3e85130e6/README.md",
+      "sha256_raw_bytes": "73fccc29fd1cda62e7e2b0467c0d2b6f5b551b46a4f4cac0c7bca51c0a0b4697",
+      "config_url": "https://huggingface.co/NeoQuasar/Kronos-base/raw/2b554741eca47781b64468546e77fef3e85130e6/config.json",
+      "license": "Publisher-declared MIT in card YAML and API; no standalone LICENSE in checked file listing",
+      "weight_filename_verified": "model.safetensors",
+      "weight_parameters_verified": 102311008,
+      "weights_downloaded": false,
+      "facts": [
+        "base weights available",
+        "102.3M parameter base",
+        "10-bit coarse plus 10-bit fine configuration",
+        "large not publicly available in card table"
+      ]
+    },
+    {
+      "id": "S3",
+      "title": "Kronos: A Foundation Model for the Language of Financial Markets — paper v1",
+      "url": "https://arxiv.org/html/2508.02739v1",
+      "version": "2508.02739v1",
+      "authors": [
+        "Yu Shi",
+        "Zongliang Fu",
+        "Shuo Chen",
+        "Bohan Zhao",
+        "Wei Xu",
+        "Changshui Zhang",
+        "Jian Li"
+      ],
+      "license": "arXiv.org perpetual non-exclusive license 1.0; not CC BY or MIT",
+      "license_url": "https://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+      "figure_reuse_status": "Not cleared by arXiv license alone; permission or another documented legal basis needed",
+      "facts": [
+        "D=6 numerical OHLCVA",
+        "BSQ tokenizer",
+        "coarse-to-fine autoregression",
+        "calendar embeddings",
+        "Monte Carlo averaging",
+        "authors' 12B observations / 45 exchanges claim",
+        "reported benchmark metrics, not trading accuracy"
+      ]
+    },
+    {
+      "id": "S4",
+      "title": "Official Kronos demo dashboard",
+      "url": "https://shiyu-coder.github.io/Kronos-demo/",
+      "displayed_last_updated_utc": "2026-07-04 11:00:26",
+      "historical_only": true,
+      "displayed_metrics_not_current_signals": {
+        "upside_probability": "66.7%",
+        "volatility_amplification": "83.3%"
+      },
+      "license_evidence": "Footer declares MIT, copyright 2025 The Kronos Project; separate demo repository has no root LICENSE in checked listing and GitHub API license is null",
+      "reuse_decision": "Do not use screenshot or chart by default. Paraphrase probabilistic methodology and cite; no claim of live freshness or calibrated confidence.",
+      "facts": [
+        "BTC/USDT example",
+        "Binance 1h",
+        "mini model",
+        "30 sample paths",
+        "page says 360-hour context",
+        "24-hour horizon",
+        "full sample range band"
+      ]
+    },
+    {
+      "id": "S5",
+      "title": "arXiv v1 abstract, date and license metadata",
+      "url": "https://arxiv.org/abs/2508.02739v1",
+      "submission_timestamp_utc": "2025-08-02T13:15:59Z",
+      "article_license_href_exact": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+      "verification": "Read actual abstract HTML submission history and abs-license anchor",
+      "date_scope": "Original paper submission, not proof of exact first public code/weights release time"
+    },
+    {
+      "id": "S6",
+      "title": "Official root MIT license",
+      "url": "https://raw.githubusercontent.com/shiyu-coder/Kronos/67b630e67f6a18c9e9be918d9b4337c960db1e9a/LICENSE",
+      "sha256_raw_bytes": "acb2d194d378204e5f2be4dcd24d39ecac437903620c790c3315a96dab388fdc",
+      "copyright": "Copyright (c) 2025 ShiYu",
+      "local_notice": "docs/kronos/Kronos-MIT-LICENSE.txt",
+      "condition": "Include copyright and permission notice in copies or substantial portions; carry it with distributed derivative material where required"
+    },
+    {
+      "id": "S7",
+      "title": "Official tokenizer, model and prediction implementation",
+      "url": "https://raw.githubusercontent.com/shiyu-coder/Kronos/67b630e67f6a18c9e9be918d9b4337c960db1e9a/model/kronos.py",
+      "sha256_raw_bytes": "0a5f90282e2039c2de0771473419715c845def154896dbd0f5747837e6241032",
+      "license": "Root MIT; inspect separately credited upstream components if copying code",
+      "facts": [
+        "pandas numeric input",
+        "minute-of-hour implementation",
+        "normalization and clipping",
+        "optional amount estimate",
+        "temperature/top-k/top-p",
+        "internally averaged samples"
+      ]
+    },
+    {
+      "id": "S8",
+      "title": "Official module implementation",
+      "url": "https://raw.githubusercontent.com/shiyu-coder/Kronos/67b630e67f6a18c9e9be918d9b4337c960db1e9a/model/module.py",
+      "sha256_raw_bytes": "a07edbadc0e96804c8158c021bbc6063bb7cc43b34d7fc470d5c8ff2005a409f",
+      "license": "Root MIT; code explicitly credits upstream BSQ implementation",
+      "facts": [
+        "five temporal embeddings",
+        "60 minute entries",
+        "causal self-attention with RoPE",
+        "hierarchical embeddings",
+        "BSQ"
+      ]
+    },
+    {
+      "id": "S9",
+      "title": "Actual arXiv non-exclusive distribution license",
+      "url": "https://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+      "finding": "Grants arXiv distribution permission, not general figure reproduction rights"
+    },
+    {
+      "id": "S10",
+      "title": "arXiv permissions and reuse FAQ",
+      "url": "https://info.arxiv.org/help/license/reuse.html",
+      "related_policy_url": "https://info.arxiv.org/help/license/index.html",
+      "finding": "For non-exclusive-license figures, contact submitter/copyright holder to determine permissions"
+    },
+    {
+      "id": "S11",
+      "title": "Official demo updater source",
+      "url": "https://raw.githubusercontent.com/shiyu-coder/Kronos-demo/c56b787aaa90cff9ff826231a7bcc2746ae63340/update_predictions.py",
+      "revision": "c56b787aaa90cff9ff826231a7bcc2746ae63340",
+      "verification": "Read master source, then resolved current master ref via GitHub API",
+      "license": "Demo footer MIT declaration; no standalone root license verified",
+      "facts": [
+        "sample-fraction probabilities",
+        "min-max forecast band",
+        "fetches 384 bars, drops one and passes 383",
+        "360-hour displayed historical tail",
+        "uses mini and 2k tokenizer"
+      ]
+    }
+  ],
+  "supporting_api_checks": [
+    {
+      "url": "https://api.github.com/repos/shiyu-coder/Kronos",
+      "finding": "default_branch master; MIT; created_at 2025-07-01T02:54:32Z is repository creation, not proven public launch"
+    },
+    {
+      "url": "https://api.github.com/repos/shiyu-coder/Kronos/commits/master",
+      "finding": "head 67b630e67f6a18c9e9be918d9b4337c960db1e9a"
+    },
+    {
+      "url": "https://api.github.com/repos/shiyu-coder/Kronos/contents/figures",
+      "finding": "overview.png, logo.png, prediction_example.png, backtest_result_example.png; no separate license file in checked directory"
+    },
+    {
+      "url": "https://api.github.com/repos/shiyu-coder/Kronos-demo",
+      "finding": "license null; default_branch master"
+    },
+    {
+      "url": "https://api.github.com/repos/shiyu-coder/Kronos-demo/contents/",
+      "finding": "no standalone root LICENSE file in returned listing"
+    },
+    {
+      "url": "https://api.github.com/repos/shiyu-coder/Kronos-demo/git/ref/heads/master",
+      "finding": "head c56b787aaa90cff9ff826231a7bcc2746ae63340"
+    },
+    {
+      "url": "https://huggingface.co/api/models/NeoQuasar/Kronos-base",
+      "finding": "MIT card metadata, weights listed, ungated; createdAt 2025-06-30T17:11:20Z is not proof of public launch"
+    }
+  ],
+  "local_assets": [
+    {
+      "path": "docs/kronos/research-notes.md",
+      "type": "original research notes",
+      "created": true
+    },
+    {
+      "path": "docs/kronos/source-asset-manifest.json",
+      "type": "original provenance and asset plan",
+      "created": true
+    },
+    {
+      "path": "docs/kronos/Kronos-MIT-LICENSE.txt",
+      "type": "transcribed official MIT notice",
+      "created": true,
+      "source_ids": ["S6"]
+    }
+  ],
+  "planned_original_visuals": [
+    {
+      "id": "A",
+      "title": "Dated paper identity card",
+      "source_ids": ["S3", "S5"],
+      "status": "not_created",
+      "treatment": "original typesetting, plain project name and citation; no platform screenshot"
+    },
+    {
+      "id": "B",
+      "title": "Numerical OHLCVA input row",
+      "source_ids": ["S3", "S7"],
+      "status": "not_created",
+      "treatment": "invented sample values labeled illustrative, not current market data"
+    },
+    {
+      "id": "C",
+      "title": "Tokenizer to autoregression diagram",
+      "source_ids": ["S3", "S7", "S8"],
+      "status": "not_created",
+      "treatment": "new visual layout; no traced paper figures"
+    },
+    {
+      "id": "D",
+      "title": "Five calendar context features",
+      "source_ids": ["S7", "S8"],
+      "status": "not_created",
+      "treatment": "minute/hour/weekday/day/month, minute-of-hour implementation"
+    },
+    {
+      "id": "E",
+      "title": "Multiple possible future paths",
+      "source_ids": ["S3"],
+      "status": "not_created",
+      "treatment": "illustrative invented curves; explicitly not actual Kronos inference or calibrated interval"
+    },
+    {
+      "id": "F",
+      "title": "Released models and base artifact evidence",
+      "source_ids": ["S1", "S2"],
+      "status": "not_created",
+      "treatment": "original factual table; current lineup distinguished from v1"
+    },
+    {
+      "id": "G",
+      "title": "Optional benchmark fact card",
+      "source_ids": ["S3"],
+      "status": "not_created",
+      "treatment": "reported relative RankIC improvement, not accuracy or investment return"
+    },
+    {
+      "id": "H",
+      "title": "Forecast risk and simplified-backtest caveat",
+      "source_ids": ["S1", "S3"],
+      "status": "not_created",
+      "treatment": "original editorial paraphrase"
+    }
+  ],
+  "external_asset_candidates_not_acquired": [
+    {
+      "url": "https://arxiv.org/html/2508.02739v1/img/Overview.png",
+      "kind": "paper figure 2",
+      "decision": "do_not_use_by_default",
+      "reason": "arXiv non-exclusive license is not blanket reproduction permission; use new diagram"
+    },
+    {
+      "url": "https://arxiv.org/html/2508.02739v1/img/Tokenizer.png",
+      "kind": "paper figure 3",
+      "decision": "do_not_use_by_default",
+      "reason": "same paper permission issue; do not trace expressive design"
+    },
+    {
+      "url": "https://github.com/shiyu-coder/Kronos/blob/67b630e67f6a18c9e9be918d9b4337c960db1e9a/figures/overview.png",
+      "kind": "official repository documentation figure",
+      "decision": "not_needed_use_original",
+      "reason": "root MIT supports authored documentation reuse but exact provenance/third-party elements still warrant review; do not generalize to all paper figures"
+    },
+    {
+      "url": "https://shiyu-coder.github.io/Kronos-demo/prediction_chart.png",
+      "kind": "demo chart",
+      "decision": "do_not_use_by_default",
+      "reason": "stale historical forecast, external market-data considerations, incomplete standalone demo license evidence"
+    },
+    {
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "kind": "whole webpage screenshot",
+      "decision": "do_not_use_by_default",
+      "reason": "platform UI/trademarks not covered wholesale by project MIT; prefer attributed editorial card"
+    }
+  ],
+  "optional_readme_quote_reuse": {
+    "source_id": "S1",
+    "treatment": "plain text quotation in original layout, not webpage screenshot",
+    "selections_in_notes": "Introduction numbered items 1 and 2; opening sentence of finetuning disclaimer",
+    "license_notice": "docs/kronos/Kronos-MIT-LICENSE.txt",
+    "distribution_requirement": "Carry copyright and permission notice with distributed copies/substantial portions as required; private production notes alone are not final distribution compliance"
+  }
+}

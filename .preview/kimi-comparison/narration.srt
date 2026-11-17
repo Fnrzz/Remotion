@@ -1,0 +1,76 @@
+1
+00:00:00,000 --> 00:00:03,280
+ Harga AI buat coding bisa beda 5x lipat.
+
+2
+00:00:03,780 --> 00:00:06,720
+ Tapi, performanya juga beda sejauh itu.
+
+3
+00:00:06,960 --> 00:00:08,320
+ Kita bandingin 3 model.
+
+4
+00:00:08,440 --> 00:00:13,200
+ Kimi K3.1 Pro, Cloud Opus 5.5 dan GPT6 Astra.
+
+5
+00:00:13,440 --> 00:00:15,600
+ Di tarif API Standard per sejuta token,
+
+6
+00:00:15,760 --> 00:00:18,280
+ Kimi 2 dolar input dan 10 dolar output.
+
+7
+00:00:18,400 --> 00:00:19,800
+ Opus 4 dan 20.
+
+8
+00:00:20,040 --> 00:00:22,480
+ Astra, 10 dan 50 dolar.
+
+9
+00:00:22,720 --> 00:00:24,080
+ Sekarang benchmarknya.
+
+10
+00:00:24,840 --> 00:00:27,760
+ Di Kimi Code Bench 3.0, test internal moonshot,
+
+11
+00:00:27,880 --> 00:00:29,920
+ Astra dapat 66.5.
+
+12
+00:00:30,120 --> 00:00:34,280
+ Kimi 61.2 dan Opus 58.5.
+
+13
+00:00:34,440 --> 00:00:37,800
+ Tapi di angkat terminal Bench 4.0 yang dikumpulkan moonshot,
+
+14
+00:00:37,920 --> 00:00:40,720
+ Opus unggul tipis dengan 66.4.
+
+15
+00:00:40,880 --> 00:00:45,040
+ Kimi 65.7 dan Astra 58.2.
+
+16
+00:00:45,200 --> 00:00:47,600
+ Ingat, pengaturan testnya nggak selalu sama.
+
+17
+00:00:47,720 --> 00:00:51,440
+ Dan harga pertoken belum tentu menggambarkan biaya menyelesaikan satu proyek.
+
+18
+00:00:51,640 --> 00:00:54,000
+ Jadi, kalau kamu pakai AI buat coding,
+
+19
+00:00:54,120 --> 00:00:58,000
+ lebih pilih tarif hemat atau performa yang paling cocok buat kebutuhanmu.
+

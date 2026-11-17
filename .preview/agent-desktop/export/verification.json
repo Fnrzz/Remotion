@@ -1,0 +1,21 @@
+{
+  "output": "out/agent-desktop-006.mp4",
+  "sourceSha256": "76f1b456a768f8db9e67f5d1fb493191b83cfadd1fc9d5520c55e00d286e5dfb",
+  "decodedWithoutErrors": true,
+  "video": {
+    "codec": "h264",
+    "width": 1080,
+    "height": 1920,
+    "fps": "30/1",
+    "frames": "1428",
+    "duration": "47.600000"
+  },
+  "audio": {
+    "codec": "aac",
+    "duration": "47.616000",
+    "originalDecodedSamples": 761104,
+    "exportDecodedSamples": 761856,
+    "correlation": 0.9999666203066521,
+    "offsetSamples": 0
+  }
+}

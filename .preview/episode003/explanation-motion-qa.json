@@ -1,0 +1,176 @@
+{
+  "samples": [
+    {
+      "frame": 380,
+      "diagram": "workflow",
+      "active": [
+        "BUG"
+      ],
+      "card": [
+        522.6973266601562,
+        209.8986358642578,
+        156.5999755859375,
+        90.58238220214844
+      ],
+      "character": [
+        616.2999877929688,
+        327.78240966796875,
+        63,
+        55.817596435546875
+      ],
+      "sameSubtitle": true,
+      "subtitleText": "buat menangani",
+      "illustrationLabel": true
+    },
+    {
+      "frame": 466,
+      "diagram": "workflow",
+      "active": [
+        "BUG"
+      ],
+      "card": [
+        522.6973266601562,
+        209.8986358642578,
+        156.5999755859375,
+        90.58238220214844
+      ],
+      "character": [
+        616.2999877929688,
+        327.78240966796875,
+        63,
+        55.817596435546875
+      ],
+      "sameSubtitle": true,
+      "subtitleText": "penyebab bug,",
+      "illustrationLabel": true
+    },
+    {
+      "frame": 490,
+      "diagram": "workflow",
+      "active": [
+        "ANALISIS"
+      ],
+      "card": [
+        522.6973266601562,
+        209.8986358642578,
+        156.5999755859375,
+        90.58238220214844
+      ],
+      "character": [
+        616.2999877929688,
+        327.78240966796875,
+        63,
+        55.817596435546875
+      ],
+      "sameSubtitle": true,
+      "subtitleText": "sampai membantu",
+      "illustrationLabel": true
+    },
+    {
+      "frame": 525,
+      "diagram": "workflow",
+      "active": [
+        "PATCH"
+      ],
+      "card": [
+        522.6973266601562,
+        209.8986358642578,
+        156.5999755859375,
+        90.58238220214844
+      ],
+      "character": [
+        616.2999877929688,
+        327.78240966796875,
+        63,
+        55.817596435546875
+      ],
+      "sameSubtitle": true,
+      "subtitleText": "memperbaiki kodenya.",
+      "illustrationLabel": true
+    },
+    {
+      "frame": 622,
+      "diagram": "cyber",
+      "active": [],
+      "card": [
+        522.6973266601562,
+        209.8986358642578,
+        156.5999755859375,
+        90.58238220214844
+      ],
+      "character": [
+        616.2999877929688,
+        327.78240966796875,
+        63,
+        55.817596435546875
+      ],
+      "sameSubtitle": true,
+      "subtitleText": "Carbon juga difokuskan",
+      "illustrationLabel": true
+    },
+    {
+      "frame": 710,
+      "diagram": "cyber",
+      "active": [],
+      "card": [
+        522.6973266601562,
+        209.8986358642578,
+        156.5999755859375,
+        90.58238220214844
+      ],
+      "character": [
+        616.2999877929688,
+        327.78240966796875,
+        63,
+        55.817596435546875
+      ],
+      "sameSubtitle": true,
+      "subtitleText": "celah keamanan,",
+      "illustrationLabel": true
+    },
+    {
+      "frame": 765,
+      "diagram": "cyber",
+      "active": [],
+      "card": [
+        522.6973266601562,
+        209.8986358642578,
+        156.5999755859375,
+        90.58238220214844
+      ],
+      "character": [
+        616.2999877929688,
+        327.78240966796875,
+        63,
+        55.817596435546875
+      ],
+      "sameSubtitle": true,
+      "subtitleText": "memperbaikinya.",
+      "illustrationLabel": true
+    },
+    {
+      "frame": 380,
+      "diagram": "workflow",
+      "active": [
+        "BUG"
+      ],
+      "card": [
+        522.6973266601562,
+        209.8986358642578,
+        156.5999755859375,
+        90.58238220214844
+      ],
+      "character": [
+        616.2999877929688,
+        327.78240966796875,
+        63,
+        55.817596435546875
+      ],
+      "sameSubtitle": true,
+      "subtitleText": "buat menangani",
+      "illustrationLabel": true
+    }
+  ],
+  "deterministicSeek": true,
+  "failures": []
+}

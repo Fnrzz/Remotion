@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:04,200
+ AI ini bisa memproyeksikan candlestick tanpa melihat grafiknya.
+
+2
+00:00:04,200 --> 00:00:09,320
+ Kenalin, Kronos, model AI yang dirancang khusus buat menganalisis data pasar.
+
+3
+00:00:09,320 --> 00:00:14,520
+ Plot twistnya yang diproses bukan screenshot, tapi angka dibalik setiap candle.
+
+4
+00:00:14,520 --> 00:00:20,560
+ Mulai dari harga buka, tertinggi, terendah, sampai harga penutupan, lengkap dengan informasi waktunya.
+
+5
+00:00:20,560 --> 00:00:23,400
+ Nah, angka-angka ini diubah jadi token.
+
+6
+00:00:23,400 --> 00:00:27,720
+ Kronos memprediksi urutan berikutnya lalu mengubahnya lagi jadi proyeksiedata.
+
+7
+00:00:27,720 --> 00:00:34,120
+ Bahkan lewat proses sampling, model ini bisa menghasilkan beberapa skenario pergerakan, bukan cuma satu.
+
+8
+00:00:34,120 --> 00:00:38,720
+ Tapi ingat, ini bukan mesin pembaca masa depan, proyeksi bukan kepastian,
+
+9
+00:00:38,720 --> 00:00:41,720
+ dan hasil resep bukan jaminan untung saat trading.
+
+10
+00:00:41,720 --> 00:00:47,440
+ Menurut kamu, teknologi kayak gini lebih menarik buat reset AI atau buat analisis pasar.
+

@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "file": "public/assets/documentary/laptop-coding.jpg",
+      "license": "CC0 1.0",
+      "creator": "Tirza van Dijk",
+      "source": "https://commons.wikimedia.org/wiki/File:Laptop_coding_programs_(Unsplash).jpg",
+      "sourceShort": "https://commons.wikimedia.org/?curid=61740057",
+      "width": 4047,
+      "height": 2698,
+      "frames": "1",
+      "sha256": "572e6dea4e7db9af2272a516a90426d52b9b01aafb1bdb2541c6ff95ec51e2eb"
+    },
+    {
+      "file": "public/assets/documentary/nersc-server-racks.jpg",
+      "license": "CC0 1.0",
+      "creator": "Derrick Coetzee",
+      "source": "https://commons.wikimedia.org/wiki/File:Front_of_server_racks_at_NERSC.jpg",
+      "sourceShort": "https://commons.wikimedia.org/?curid=17445617",
+      "width": 4288,
+      "height": 2848,
+      "frames": "1",
+      "sha256": "5555cef940402c6e2f7e61236af44c620acb7a906febdf67a613ad178b33ed0e"
+    }
+  ],
+  "failures": []
+}

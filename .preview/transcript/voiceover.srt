@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:06,300
+ Bayangin AI sekarang bukan cuma bisa bikin gambar, tapi juga dunia yang bisa kamu jelajahi.
+
+2
+00:00:06,300 --> 00:00:09,560
+ Google baru aja memperkenalkan Genie 4.
+
+3
+00:00:09,560 --> 00:00:13,600
+ AI ini bisa menciptakan dunia virtual interactive secara real time.
+
+4
+00:00:13,600 --> 00:00:19,920
+ Kamu bisa mengubah cuaca, menambahkan karakter, bahkan mengarahkan adegan, cukup lewat perintah text.
+
+5
+00:00:19,920 --> 00:00:24,840
+ Dan yang lebih keren lagi, dunia ini juga punya suara dan dialog yang dihasilkan AI.
+
+6
+00:00:24,840 --> 00:00:29,640
+ Tapi Genie 4 masih dalam tahap reset dan belum tersedia untuk semua orang.
+
+7
+00:00:29,640 --> 00:00:35,360
+ Nah, kalau teknologi ini makin canggih, menurut kamu bakal seperti apa masa depan industri game?
+

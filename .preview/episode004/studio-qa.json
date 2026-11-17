@@ -1,0 +1,1666 @@
+{
+  "checks": [
+    {
+      "frame": 0,
+      "sameNode": true,
+      "text": "AI ini bisa dijalankan\ndi server sendiri",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1,
+      "sameNode": true,
+      "text": "AI ini bisa dijalankan\ndi server sendiri",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 60,
+      "sameNode": true,
+      "text": "AI ini bisa dijalankan\ndi server sendiri",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 83,
+      "sameNode": true,
+      "text": "AI ini bisa dijalankan\ndi server sendiri",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 84,
+      "sameNode": true,
+      "text": "tanpa harus lewat\nAPI Mistral?",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 85,
+      "sameNode": true,
+      "text": "tanpa harus lewat\nAPI Mistral?",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 142,
+      "sameNode": true,
+      "text": "tanpa harus lewat\nAPI Mistral?",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 143,
+      "sameNode": true,
+      "text": "tanpa harus lewat\nAPI Mistral?",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 144,
+      "sameNode": true,
+      "text": "Yup, Mistral baru aja merilis",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 145,
+      "sameNode": true,
+      "text": "Yup, Mistral baru aja merilis",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 147,
+      "sameNode": true,
+      "text": "Yup, Mistral baru aja merilis",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 203,
+      "sameNode": true,
+      "text": "Yup, Mistral baru aja merilis",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 204,
+      "sameNode": true,
+      "text": "bobot model AI terbarunya,",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 205,
+      "sameNode": true,
+      "text": "bobot model AI terbarunya,",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 240,
+      "sameNode": true,
+      "text": "bobot model AI terbarunya,",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 262,
+      "sameNode": true,
+      "text": "bobot model AI terbarunya,",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 263,
+      "sameNode": true,
+      "text": "Mistral Large 4.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 264,
+      "sameNode": true,
+      "text": "Mistral Large 4.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 304,
+      "sameNode": true,
+      "text": "Mistral Large 4.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 305,
+      "sameNode": true,
+      "text": "Mistral Large 4.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 306,
+      "sameNode": true,
+      "text": "Bobot ini adalah parameter",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 307,
+      "sameNode": true,
+      "text": "Bobot ini adalah parameter",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 309,
+      "sameNode": true,
+      "text": "Bobot ini adalah parameter",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 360,
+      "sameNode": true,
+      "text": "Bobot ini adalah parameter",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 361,
+      "sameNode": true,
+      "text": "yang dipakai AI saat bekerja.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 362,
+      "sameNode": true,
+      "text": "yang dipakai AI saat bekerja.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 390,
+      "sameNode": true,
+      "text": "yang dipakai AI saat bekerja.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 406,
+      "sameNode": true,
+      "text": "yang dipakai AI saat bekerja.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 407,
+      "sameNode": true,
+      "text": "Dan sekarang, file-nya\ntersedia di Hugging Face.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 408,
+      "sameNode": true,
+      "text": "Dan sekarang, file-nya\ntersedia di Hugging Face.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 489,
+      "sameNode": true,
+      "text": "Dan sekarang, file-nya\ntersedia di Hugging Face.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 490,
+      "sameNode": true,
+      "text": "Dan sekarang, file-nya\ntersedia di Hugging Face.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 491,
+      "sameNode": true,
+      "text": "Artinya, developer punya opsi",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 492,
+      "sameNode": true,
+      "text": "Artinya, developer punya opsi",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 494,
+      "sameNode": true,
+      "text": "Artinya, developer punya opsi",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 544,
+      "sameNode": true,
+      "text": "Artinya, developer punya opsi",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 545,
+      "sameNode": true,
+      "text": "buat menyesuaikan model",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 546,
+      "sameNode": true,
+      "text": "buat menyesuaikan model",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 587,
+      "sameNode": true,
+      "text": "buat menyesuaikan model",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 588,
+      "sameNode": true,
+      "text": "dan menentukan sendiri",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 589,
+      "sameNode": true,
+      "text": "dan menentukan sendiri",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 600,
+      "sameNode": true,
+      "text": "dan menentukan sendiri",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 626,
+      "sameNode": true,
+      "text": "dan menentukan sendiri",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 627,
+      "sameNode": true,
+      "text": "di mana AI-nya dijalankan.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 628,
+      "sameNode": true,
+      "text": "di mana AI-nya dijalankan.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 680,
+      "sameNode": true,
+      "text": "di mana AI-nya dijalankan.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 681,
+      "sameNode": true,
+      "text": "Tapi tunggu dulu.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 682,
+      "sameNode": true,
+      "text": "Tapi tunggu dulu.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 685,
+      "sameNode": true,
+      "text": "Tapi tunggu dulu.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 710,
+      "sameNode": true,
+      "text": "Tapi tunggu dulu.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 711,
+      "sameNode": true,
+      "text": "Open-weight bukan berarti\nbebas aturan",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 712,
+      "sameNode": true,
+      "text": "Open-weight bukan berarti\nbebas aturan",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 750,
+      "sameNode": true,
+      "text": "Open-weight bukan berarti\nbebas aturan",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 781,
+      "sameNode": true,
+      "text": "Open-weight bukan berarti\nbebas aturan",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 782,
+      "sameNode": true,
+      "text": "atau bisa langsung jalan\ndi semua laptop.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 783,
+      "sameNode": true,
+      "text": "atau bisa langsung jalan\ndi semua laptop.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 848,
+      "sameNode": true,
+      "text": "atau bisa langsung jalan\ndi semua laptop.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 849,
+      "sameNode": true,
+      "text": "Kamu tetap perlu infrastruktur,",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 850,
+      "sameNode": true,
+      "text": "Kamu tetap perlu infrastruktur,",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 904,
+      "sameNode": true,
+      "text": "Kamu tetap perlu infrastruktur,",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 905,
+      "sameNode": true,
+      "text": "keahlian teknis,",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 906,
+      "sameNode": true,
+      "text": "keahlian teknis,",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 938,
+      "sameNode": true,
+      "text": "keahlian teknis,",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 939,
+      "sameNode": true,
+      "text": "dan memahami lisensinya.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 940,
+      "sameNode": true,
+      "text": "dan memahami lisensinya.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 975,
+      "sameNode": true,
+      "text": "dan memahami lisensinya.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 984,
+      "sameNode": true,
+      "text": "dan memahami lisensinya.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 985,
+      "sameNode": true,
+      "text": "Apalagi kalau mau menyediakan",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 986,
+      "sameNode": true,
+      "text": "Apalagi kalau mau menyediakan",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1020,
+      "sameNode": true,
+      "text": "Apalagi kalau mau menyediakan",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1027,
+      "sameNode": true,
+      "text": "Apalagi kalau mau menyediakan",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1028,
+      "sameNode": true,
+      "text": "model ini sebagai layanan.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1029,
+      "sameNode": true,
+      "text": "model ini sebagai layanan.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1074,
+      "sameNode": true,
+      "text": "model ini sebagai layanan.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1075,
+      "sameNode": true,
+      "text": "Dan tenang, API Mistral",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1076,
+      "sameNode": true,
+      "text": "Dan tenang, API Mistral",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1079,
+      "sameNode": true,
+      "text": "Dan tenang, API Mistral",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1122,
+      "sameNode": true,
+      "text": "Dan tenang, API Mistral",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1123,
+      "sameNode": true,
+      "text": "masih tetap tersedia.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1124,
+      "sameNode": true,
+      "text": "masih tetap tersedia.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1130,
+      "sameNode": true,
+      "text": "masih tetap tersedia.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1174,
+      "sameNode": true,
+      "text": "masih tetap tersedia.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1175,
+      "sameNode": true,
+      "text": "masih tetap tersedia.",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1176,
+      "sameNode": true,
+      "text": "Nah, kalau buat\nproyekmu sendiri,",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1177,
+      "sameNode": true,
+      "text": "Nah, kalau buat\nproyekmu sendiri,",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1179,
+      "sameNode": true,
+      "text": "Nah, kalau buat\nproyekmu sendiri,",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1237,
+      "sameNode": true,
+      "text": "Nah, kalau buat\nproyekmu sendiri,",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1238,
+      "sameNode": true,
+      "text": "kamu lebih pilih\npraktis lewat API",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1239,
+      "sameNode": true,
+      "text": "kamu lebih pilih\npraktis lewat API",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1260,
+      "sameNode": true,
+      "text": "kamu lebih pilih\npraktis lewat API",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1311,
+      "sameNode": true,
+      "text": "kamu lebih pilih\npraktis lewat API",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 2,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1312,
+      "sameNode": true,
+      "text": "atau punya kendali lebih",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1313,
+      "sameNode": true,
+      "text": "atau punya kendali lebih",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1339,
+      "sameNode": true,
+      "text": "atau punya kendali lebih",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1340,
+      "sameNode": true,
+      "text": "dengan menjalankannya sendiri?",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1341,
+      "sameNode": true,
+      "text": "dengan menjalankannya sendiri?",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    },
+    {
+      "frame": 1383,
+      "sameNode": true,
+      "text": "dengan menjalankannya sendiri?",
+      "subBox": {
+        "left": 132.00003268828453,
+        "top": 1224.0000653765692,
+        "right": 827.9999673117155,
+        "bottom": 1343.187434623431
+      },
+      "lines": 1,
+      "subtitleFits": true,
+      "unsafe": [],
+      "photosLoaded": true,
+      "equalCards": true,
+      "headlineCount": 1
+    }
+  ],
+  "fonts": [
+    {
+      "family": "\"Plus Jakarta Sans\"",
+      "status": "loaded"
+    },
+    {
+      "family": "\"Plus Jakarta Sans\"",
+      "status": "loaded"
+    }
+  ],
+  "remoteAssets": [],
+  "uiPresent": true,
+  "failures": []
+}

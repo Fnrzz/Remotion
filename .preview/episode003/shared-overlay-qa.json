@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "id": "Genie4News",
+      "count": 1,
+      "source": "/static-e5f1078d6b5e/assets/overlays/tiktok-safe-zone-orson-lord.png",
+      "naturalWidth": 1080,
+      "naturalHeight": 1920,
+      "width": 1080,
+      "height": 1920,
+      "aspectRatio": 0.5625,
+      "opacity": 0.65,
+      "zIndex": "100",
+      "pointerEvents": "none",
+      "fit": "fill"
+    },
+    {
+      "id": "TerraVsSolNews",
+      "count": 1,
+      "source": "/static-e5f1078d6b5e/assets/overlays/tiktok-safe-zone-orson-lord.png",
+      "naturalWidth": 1080,
+      "naturalHeight": 1920,
+      "width": 1080,
+      "height": 1920,
+      "aspectRatio": 0.5625,
+      "opacity": 0.65,
+      "zIndex": "100",
+      "pointerEvents": "none",
+      "fit": "fill"
+    },
+    {
+      "id": "Gemini4CarbonNews",
+      "count": 1,
+      "source": "/static-e5f1078d6b5e/assets/overlays/tiktok-safe-zone-orson-lord.png",
+      "naturalWidth": 1080,
+      "naturalHeight": 1920,
+      "width": 1080,
+      "height": 1920,
+      "aspectRatio": 0.5625,
+      "opacity": 0.65,
+      "zIndex": "100",
+      "pointerEvents": "none",
+      "fit": "fill"
+    }
+  ],
+  "failures": []
+}

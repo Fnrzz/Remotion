@@ -1,0 +1,49 @@
+[mp3 @ 0x770cc44000] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from 'public/assets/audio/vo-mistral.mp3':
+  Metadata:
+    encoder         : Lavf63.1.102
+  Duration: 00:00:46.11, start: 0.000000, bitrate: 130 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (mp3 (mp3float) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    encoder         : Lavf62.3.100
+  Stream #0:0: Audio: pcm_s16le, 44100 Hz, mono, s16, 705 kb/s
+    Metadata:
+      encoder         : Lavc62.11.100 pcm_s16le
+[silencedetect @ 0x770d078300] silence_start: 2.4778
+[silencedetect @ 0x770d078300] silence_end: 2.78712 | silence_duration: 0.30932
+[silencedetect @ 0x770d078300] silence_start: 4.386689
+[silencedetect @ 0x770d078300] silence_end: 4.795714 | silence_duration: 0.409025
+[silencedetect @ 0x770d078300] silence_start: 5.327664
+[silencedetect @ 0x770d078300] silence_end: 5.529501 | silence_duration: 0.201837
+[silencedetect @ 0x770d078300] silence_start: 8.393923
+[silencedetect @ 0x770d078300] silence_end: 8.615556 | silence_duration: 0.221633
+[silencedetect @ 0x770d078300] silence_start: 9.77458
+[silencedetect @ 0x770d078300] silence_end: 9.939932 | silence_duration: 0.165351
+[silencedetect @ 0x770d078300] silence_start: 9.940794
+[silencedetect @ 0x770d078300] silence_end: 10.188912 | silence_duration: 0.248118
+[silencedetect @ 0x770d078300] silence_start: 13.256259
+[silencedetect @ 0x770d078300] silence_end: 13.551224 | silence_duration: 0.294966
+[silencedetect @ 0x770d078300] silence_start: 16.13576
+[silencedetect @ 0x770d078300] silence_end: 16.363084 | silence_duration: 0.227324
+[silencedetect @ 0x770d078300] silence_start: 22.347392
+[silencedetect @ 0x770d078300] silence_end: 22.731497 | silence_duration: 0.384104
+[silencedetect @ 0x770d078300] silence_start: 23.407642
+[silencedetect @ 0x770d078300] silence_end: 23.745964 | silence_duration: 0.338322
+[silencedetect @ 0x770d078300] silence_start: 27.97415
+[silencedetect @ 0x770d078300] silence_end: 28.305737 | silence_duration: 0.331587
+[silencedetect @ 0x770d078300] silence_start: 32.531406
+[silencedetect @ 0x770d078300] silence_end: 32.858571 | silence_duration: 0.327166
+[silencedetect @ 0x770d078300] silence_start: 35.633243
+[silencedetect @ 0x770d078300] silence_end: 35.853764 | silence_duration: 0.220522
+[silencedetect @ 0x770d078300] silence_start: 36.589161
+[silencedetect @ 0x770d078300] silence_end: 36.787211 | silence_duration: 0.19805
+[silencedetect @ 0x770d078300] silence_start: 38.932993
+[silencedetect @ 0x770d078300] silence_end: 39.2078 | silence_duration: 0.274807
+[silencedetect @ 0x770d078300] silence_start: 45.905465
+[silencedetect @ 0x770d078300] silence_end: 46.106122 | silence_duration: 0.200658
+[out#0/null @ 0x770d074180] video:0KiB audio:3971KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:00:46.10 bitrate=N/A speed=1.66e+03x elapsed=0:00:00.02    
